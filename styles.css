@@ -1,0 +1,441 @@
+:root {
+    --primary: #2563eb;
+    --bg-color: #f3f4f6;
+    --card-bg: #ffffff;
+    --text-main: #1f2937;
+    --text-muted: #6b7280;
+    --color-studio: #10b981;
+    --color-sem: #8b5cf6;
+    --color-as: #f59e0b;
+}
+
+body {
+    font-family: 'Work Sans', sans-serif;
+    background-color: var(--bg-color);
+    color: var(--text-main);
+    margin: 0;
+    padding: 20px;
+}
+
+/* --- TYPOGRAPHY & COLORS --- */
+h1, h2, h3, strong, .btn, .course-code, .course-badge, .btn-toggle, .tab-btn, .tracker-badge, .day-header, .time-label, .conflict-alert, .prototype-badge {
+    font-weight: 600;
+}
+
+.course-detail, .course-desc, .btn-toggle, .tab-btn, .day-header, .time-label {
+    color: var(--text-muted);
+}
+
+.course-code, .course-title {
+    font-size: 1.1em;
+}
+
+.course-title {
+    margin: 0 0 10px 0;
+    line-height: 1.3;
+}
+
+.course-detail {
+    margin: 4px 0;
+    font-size: 0.85em;
+}
+
+.course-detail strong {
+    color: var(--text-main);
+}
+
+.course-badge {
+    font-size: 0.75em;
+    padding: 3px 8px;
+    border-radius: 12px;
+}
+
+/* Background & Text Mappings */
+.bg-studio, .type-studio .btn-add {
+    background-color: var(--color-studio);
+    color: white;
+}
+
+.bg-sem, .type-sem .btn-add {
+    background-color: var(--color-sem);
+    color: white;
+}
+
+.bg-as, .type-as .btn-add {
+    background-color: var(--color-as);
+    color: white;
+}
+
+.type-studio .course-code {
+    color: var(--color-studio);
+}
+
+.type-sem .course-code {
+    color: var(--color-sem);
+}
+
+.type-as .course-code {
+    color: var(--color-as);
+}
+
+/* Hover States for add buttons */
+.type-studio .btn-add:hover {
+    background-color: #059669;
+}
+
+.type-sem .btn-add:hover {
+    background-color: #7c3aed;
+}
+
+.type-as .btn-add:hover {
+    background-color: #d97706;
+}
+
+/* --- SHARED LAYOUT CONTAINERS --- */
+header {
+    max-width: 1400px;
+    margin: 0 auto 20px auto;
+    letter-spacing: -0.02em;
+    position: relative;
+}
+
+.main-layout {
+    display: flex;
+    max-width: 1400px;
+    margin: 0 auto;
+    gap: 20px;
+    align-items: flex-start;
+}
+
+.catalog-section {
+    flex: 2;
+}
+
+/* Grouping Flex Containers */
+.controls, .card-actions, .tracker, .calendar-tabs, .calendar-header {
+    display: flex;
+    gap: 10px;
+}
+
+.controls {
+    margin-bottom: 20px;
+    flex-wrap: wrap;
+}
+
+.card-actions {
+    align-items: center;
+    margin-top: 15px;
+}
+
+.tracker {
+    justify-content: space-between;
+    margin-bottom: 20px;
+    font-size: 0.85em;
+    flex-shrink: 0;
+}
+
+.calendar-tabs {
+    margin-bottom: 15px;
+    border-bottom: 2px solid #e5e7eb;
+    padding-bottom: 10px;
+    flex-shrink: 0;
+}
+
+.calendar-header {
+    border-bottom: 2px solid #e5e7eb;
+    padding-bottom: 8px;
+    margin-bottom: 8px;
+    padding-left: 45px;
+    flex-shrink: 0;
+    gap: 0;
+}
+
+.course-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    margin-bottom: 8px;
+    border-bottom: 1px solid #eee;
+    padding-bottom: 8px;
+}
+
+#course-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 15px;
+}
+
+/* Cards & Sidebars */
+.schedule-section, .course-card {
+    background-color: var(--card-bg);
+    border-radius: 12px;
+    box-shadow: 0 2px 4px -1px rgba(0, 0, 0, 0.1);
+    display: flex;
+    flex-direction: column;
+}
+
+.schedule-section {
+    padding: 20px;
+    flex: 1.2;
+    position: sticky;
+    top: 20px;
+    box-sizing: border-box;
+    height: 70vh;
+    min-height: 500px;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+}
+
+.course-card {
+    padding: 15px;
+}
+
+.course-desc {
+    font-size: 0.85em;
+    line-height: 1.5;
+    margin: 10px 0 5px 0;
+    padding-top: 12px;
+    border-top: 1px dashed #e5e7eb;
+}
+
+/* --- INPUTS & BUTTONS --- */
+input, select, .btn, .btn-toggle, .btn-reset, .tab-btn {
+    font-family: inherit;
+    transition: all 0.2s ease;
+}
+
+input, select {
+    padding: 10px 15px;
+    border: 1px solid #ccc;
+    flex: 1;
+    min-width: 150px;
+    border-radius: 8px;
+    font-size: 15px;
+}
+
+.btn, .btn-toggle, .tab-btn {
+    cursor: pointer;
+    border: none;
+    padding: 8px 12px;
+    border-radius: 6px;
+}
+
+.btn {
+    flex: 1;
+    font-size: 0.85em;
+}
+
+.btn-toggle {
+    border: 1px solid #e5e7eb;
+    background: transparent;
+    font-size: 0.8em;
+    flex-shrink: 0;
+}
+
+.btn-reset {
+    background-color: #e5e7eb;
+    color: var(--text-main);
+    border-radius: 8px;
+    padding: 10px 15px;
+    font-size: 15px;
+    width: auto;
+    margin-top: 0;
+}
+
+.tab-btn {
+    background: none;
+    font-size: 1.1em;
+    border-radius: 8px;
+    padding: 6px 12px;
+}
+
+.btn-toggle:hover, .btn-reset:hover, .tab-btn:hover {
+    background-color: #f9fafb;
+    color: var(--text-main);
+    border-color: #d1d5db;
+}
+
+.tab-btn.active {
+    color: var(--primary);
+    background-color: #eff6ff;
+}
+
+/* Button States */
+.btn-remove {
+    background-color: #fee2e2;
+    color: #dc2626;
+}
+
+.btn-remove:hover {
+    background-color: #fecaca;
+}
+
+.btn-conflict {
+    background-color: #f3f4f6;
+    color: #9ca3af;
+    cursor: not-allowed;
+    border: 1px solid #d1d5db;
+}
+
+/* --- CALENDAR GRID & TRACKER --- */
+.tracker-badge {
+    padding: 8px 4px;
+    border-radius: 8px;
+    flex: 1;
+    text-align: center;
+}
+
+.day-header {
+    flex: 1;
+    text-align: center;
+    font-size: 0.9em;
+}
+
+.calendar-wrapper, .calendar-body, .time-axis, .calendar-grid {
+    display: flex;
+    min-height: 350px;
+}
+
+.calendar-wrapper, .calendar-body, .calendar-grid {
+    flex: 1 1 auto;
+}
+
+.calendar-wrapper {
+    flex-direction: column;
+}
+
+.calendar-body, .calendar-grid {
+    position: relative;
+    height: 100%;
+}
+
+.time-axis {
+    width: 45px;
+    position: relative;
+    height: 100%;
+    flex-shrink: 0;
+}
+
+.calendar-grid {
+    background-image: linear-gradient(#e5e7eb 1px, transparent 1px);
+    background-size: 100% calc(100% / 14);
+    border-left: 1px solid #e5e7eb;
+    border-top: 1px solid #e5e7eb;
+}
+
+.time-label {
+    position: absolute;
+    right: 8px;
+    font-size: 0.7em;
+    transform: translateY(-50%);
+}
+
+.day-col {
+    flex: 1;
+    position: relative;
+    border-right: 1px solid #e5e7eb;
+}
+
+/* --- EVENTS & ALERTS --- */
+.sched-event {
+    position: absolute;
+    width: calc(100% - 4px);
+    left: 2px;
+    font-size: 0.6em;
+    padding: 2px 4px;
+    border-radius: 4px;
+    line-height: 1.1;
+    overflow: hidden;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.15);
+    box-sizing: border-box;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+.event-info {
+    flex: 1;
+    overflow: hidden;
+}
+
+.event-remove-btn {
+    background: rgba(0, 0, 0, 0.15);
+    border: none;
+    color: white;
+    border-radius: 50%;
+    width: 18px;
+    height: 18px;
+    line-height: 16px;
+    font-size: 14px;
+    text-align: center;
+    cursor: pointer;
+    padding: 0;
+    margin-left: 4px;
+    flex-shrink: 0;
+    transition: background 0.2s;
+}
+
+.event-remove-btn:hover {
+    background: rgba(0, 0, 0, 0.4);
+}
+
+.has-conflict {
+    opacity: 0.6;
+    border: 1px solid #fca5a5;
+    transition: opacity 0.2s ease;
+}
+
+.has-conflict:hover {
+    opacity: 0.9;
+}
+
+.conflict-alert {
+    color: #dc2626;
+    background-color: #fee2e2;
+    padding: 6px 10px;
+    border-radius: 6px;
+    font-size: 0.8em;
+    display: inline-block;
+    margin: 10px 0 5px 0;
+}
+
+.prototype-badge {
+    position: absolute;
+    top: 5px;
+    right: 0;
+    background-color: #f59e0b;
+    color: white;
+    padding: 4px 12px;
+    border-radius: 20px;
+    font-size: 0.75em;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* --- RESPONSIVE --- */
+@media (max-width: 1100px) {
+    .prototype-badge {
+        position: static;
+        display: inline-block;
+        margin-bottom: 10px;
+    }
+
+    .main-layout {
+        flex-direction: column;
+    }
+
+    .catalog-section {
+        order: 2;
+        width: 100%;
+    }
+
+    .schedule-section {
+        order: 1;
+        width: 100%;
+        position: static;
+        height: 60vh;
+        min-height: 500px;
+        margin-bottom: 20px;
+    }
+}

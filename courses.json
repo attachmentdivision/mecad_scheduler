@@ -1,0 +1,5343 @@
+[
+  {
+    "department": "AS",
+    "courseCode": "AH 101",
+    "section": "1",
+    "title": "Art History Survey I",
+    "instructor": "Alison Ferris",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "WED 3:00-4:30 PMA",
+      "time": "MON 10:00-11:15"
+    },
+    "room": "105",
+    "capacity": "20",
+    "notes": "revised schedule"
+  },
+  {
+    "department": "AS",
+    "courseCode": "AH 101",
+    "section": "2",
+    "title": "Art History Survey I",
+    "instructor": "Alison Ferris",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "WED 3:00-4:30 PMA",
+      "time": "MON 1:30-2:45"
+    },
+    "room": "105",
+    "capacity": "20",
+    "notes": "revised schedule"
+  },
+  {
+    "department": "AS",
+    "courseCode": "AH 101",
+    "section": "3",
+    "title": "Art History Survey I",
+    "instructor": "Alison Ferris",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "WED 3:00-4:30 PMA",
+      "time": "MON 3:00-4:15"
+    },
+    "room": "105",
+    "capacity": "20",
+    "notes": "revised schedule"
+  },
+  {
+    "department": "AS",
+    "courseCode": "AH 101",
+    "section": "4",
+    "title": "Art History Survey I",
+    "instructor": "Rose Logie",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "WED 3:00-4:30 PMA",
+      "time": "TU 12:00-1:15"
+    },
+    "room": "105",
+    "capacity": "20",
+    "notes": "revised schedule"
+  },
+  {
+    "department": "AS",
+    "courseCode": "AH 101",
+    "section": "5",
+    "title": "Art History Survey I",
+    "instructor": "Rose Logie",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "WED 3:00-4:30 PMA",
+      "time": "TU 3:00-4:15"
+    },
+    "room": "105",
+    "capacity": "20",
+    "notes": "revised schedule"
+  },
+  {
+    "department": "AS",
+    "courseCode": "AH 102",
+    "section": "1",
+    "title": "Art History Survey II",
+    "instructor": "Chris Stiegler",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "M TH",
+      "time": "10:15-11:30"
+    },
+    "room": "07",
+    "capacity": "25",
+    "notes": ""
+  },
+  {
+    "department": "AS",
+    "courseCode": "AH 102",
+    "section": "2",
+    "title": "Art History Survey II",
+    "instructor": "Lori Stein",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "TU FR",
+      "time": "8:30-9:45"
+    },
+    "room": "250",
+    "capacity": "25",
+    "notes": ""
+  },
+  {
+    "department": "AS",
+    "courseCode": "AH 102",
+    "section": "3",
+    "title": "Art History Survey II",
+    "instructor": "Lori Stein",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "TU FR",
+      "time": "10:00-11:15"
+    },
+    "room": "250",
+    "capacity": "25",
+    "notes": ""
+  },
+  {
+    "department": "AS",
+    "courseCode": "AH 102",
+    "section": "4",
+    "title": "Art History Survey II",
+    "instructor": "Lori Stein",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "TU FR",
+      "time": "1:30-2:45"
+    },
+    "room": "250",
+    "capacity": "25",
+    "notes": ""
+  },
+  {
+    "department": "AS",
+    "courseCode": "AH 102",
+    "section": "5",
+    "title": "Art History Survey II",
+    "instructor": "Chris Stiegler",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "M TH",
+      "time": "8:30-9:45"
+    },
+    "room": "07",
+    "capacity": "25",
+    "notes": ""
+  },
+  {
+    "department": "AS",
+    "courseCode": "AH 373",
+    "section": "",
+    "title": "Kill Yr Semiotics: A Critical History of Post-Punk",
+    "instructor": "Mitchell Rasor",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "WED",
+      "time": "845-11:30"
+    },
+    "room": "105",
+    "capacity": "25",
+    "notes": ""
+  },
+  {
+    "department": "AS",
+    "courseCode": "AH 378",
+    "section": "",
+    "title": "Cultural Remembrance & Traditions of Commemoration",
+    "instructor": "Rebekah Byer",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "WED",
+      "time": "12:00-2:45"
+    },
+    "room": "104",
+    "capacity": "12",
+    "notes": ""
+  },
+  {
+    "department": "AS",
+    "courseCode": "AH 390",
+    "section": "",
+    "title": "(W) Feminist Art Practices in the 20th & 21st Century",
+    "instructor": "Marie Shurkus",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "M TH",
+      "time": "1:30-2:45"
+    },
+    "room": "250",
+    "capacity": "20",
+    "notes": ""
+  },
+  {
+    "department": "AS",
+    "courseCode": "AH 391",
+    "section": "",
+    "title": "(S) Indigeneity, Objects, and Exhibitionism",
+    "instructor": "Rose Logie",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "TH",
+      "time": "1:30-4:15"
+    },
+    "room": "105",
+    "capacity": "25",
+    "notes": ""
+  },
+  {
+    "department": "AS",
+    "courseCode": "AH 402",
+    "section": "",
+    "title": "(W) Experiments: Artistic Research",
+    "instructor": "Marie Shurkus",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "M TH",
+      "time": "3:00-4:15`"
+    },
+    "room": "250",
+    "capacity": "20",
+    "notes": ""
+  },
+  {
+    "department": "AS",
+    "courseCode": "AH 440",
+    "section": "",
+    "title": "(W) Art History Minor Thesis",
+    "instructor": "Rose Logie",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "-",
+      "time": "-"
+    },
+    "room": "-",
+    "capacity": "IS",
+    "notes": ""
+  },
+  {
+    "department": "AS",
+    "courseCode": "HU 200",
+    "section": "1",
+    "title": "Millennium Approaches: America in the 21st Century",
+    "instructor": "John Portlock",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "TU FR",
+      "time": "8:30-9:45"
+    },
+    "room": "105",
+    "capacity": "25",
+    "notes": ""
+  },
+  {
+    "department": "AS",
+    "courseCode": "HU 200",
+    "section": "2",
+    "title": "Millennium Approaches: America in the 21st Century",
+    "instructor": "John Portlock",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "TU FR",
+      "time": "10:15-11:30"
+    },
+    "room": "105",
+    "capacity": "25",
+    "notes": "3/6"
+  },
+  {
+    "department": "AS",
+    "courseCode": "HU 200",
+    "section": "3",
+    "title": "Millennium Approaches: America in the 21st Century",
+    "instructor": "sabine stxrm",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "TU FR",
+      "time": "8:30-9:45"
+    },
+    "room": "104",
+    "capacity": "25",
+    "notes": ""
+  },
+  {
+    "department": "AS",
+    "courseCode": "HU 200",
+    "section": "4",
+    "title": "Millennium Approaches: America in the 21st Century",
+    "instructor": "sabine stxrm",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "TU FR",
+      "time": "10:15-11:30"
+    },
+    "room": "104",
+    "capacity": "25",
+    "notes": "3/6"
+  },
+  {
+    "department": "0",
+    "courseCode": "Current + waitlisted",
+    "section": "",
+    "title": "Two class meeting times, not doing a big lecture this year",
+    "instructor": "TBD",
+    "term": "",
+    "schedule": {
+      "day": "",
+      "time": ""
+    },
+    "room": "",
+    "capacity": "#REF!",
+    "notes": ""
+  },
+  {
+    "department": "AS",
+    "courseCode": "HU 323",
+    "section": "1",
+    "title": "(W) Creative Writing",
+    "instructor": "Sharon Kunde",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "M TH",
+      "time": "4:30-5:45"
+    },
+    "room": "104",
+    "capacity": "25",
+    "notes": "Fast Track"
+  },
+  {
+    "department": "AS",
+    "courseCode": "HU 323",
+    "section": "2",
+    "title": "(W) Creative Writing",
+    "instructor": "Pedro Daher",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "TU FR",
+      "time": "4:30-5:45"
+    },
+    "room": "104",
+    "capacity": "25",
+    "notes": ""
+  },
+  {
+    "department": "AS",
+    "courseCode": "HU 374",
+    "section": "",
+    "title": "Slow Reading: The Joy of the Word & Mindful Concept-Making",
+    "instructor": "Pedro Daher",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "TU FR",
+      "time": "3:00-4:15"
+    },
+    "room": "104",
+    "capacity": "25",
+    "notes": "Fast Track"
+  },
+  {
+    "department": "AS",
+    "courseCode": "HU 376",
+    "section": "",
+    "title": "(S) ReWorlding: Environmental Humanities Approaches to Climate Crisis",
+    "instructor": "Sharon Kunde",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "M TH",
+      "time": "3:00-4:15"
+    },
+    "room": "104",
+    "capacity": "25",
+    "notes": "Name change approved Fall25"
+  },
+  {
+    "department": "AS",
+    "courseCode": "HU 379",
+    "section": "",
+    "title": "Global Poetry",
+    "instructor": "Pedro Daher",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "TU FR",
+      "time": "12:00-1:45"
+    },
+    "room": "104",
+    "capacity": "25",
+    "notes": "Fast Track"
+  },
+  {
+    "department": "AS",
+    "courseCode": "HU 382",
+    "section": "",
+    "title": "Body Politic: Gender, Sexuality, and State Power",
+    "instructor": "Sharon Kunde",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "WED",
+      "time": "3:00-5:45"
+    },
+    "room": "104",
+    "capacity": "25",
+    "notes": "Fast Track"
+  },
+  {
+    "department": "AS",
+    "courseCode": "HU 440",
+    "section": "",
+    "title": "(W) Writing Minor Capstone",
+    "instructor": "Pedro Daher",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "-",
+      "time": "-"
+    },
+    "room": "-",
+    "capacity": "IS",
+    "notes": ""
+  },
+  {
+    "department": "AS",
+    "courseCode": "HU 445",
+    "section": "S",
+    "title": "(S) Sustainable Ecosystems: Art & Design Minor Capstone",
+    "instructor": "sabine stxrm",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "-",
+      "time": "-"
+    },
+    "room": "-",
+    "capacity": "IS",
+    "notes": ""
+  },
+  {
+    "department": "AS",
+    "courseCode": "NS 301",
+    "section": "",
+    "title": "(PE) (S) Natural History - Coastal Ecosystems",
+    "instructor": "Deb Debiegun",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "WED",
+      "time": "8:45-11:30"
+    },
+    "room": "208",
+    "capacity": "20",
+    "notes": ""
+  },
+  {
+    "department": "AS",
+    "courseCode": "NS 309",
+    "section": "",
+    "title": "(S) Sustainable Agriculture",
+    "instructor": "Megan Valanidas",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "TUE",
+      "time": "12:00-2:45"
+    },
+    "room": "208",
+    "capacity": "20",
+    "notes": ""
+  },
+  {
+    "department": "AS",
+    "courseCode": "NS 317",
+    "section": "",
+    "title": "Intro to Biodesign",
+    "instructor": "Megan Valanidas",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "TUE",
+      "time": "3:00-5:45"
+    },
+    "room": "208",
+    "capacity": "20",
+    "notes": "Fast Track"
+  },
+  {
+    "department": "AS",
+    "courseCode": "NS 321",
+    "section": "",
+    "title": "(AE) Money Matters",
+    "instructor": "Steve Kautz",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "M W",
+      "time": "6:30-7:45"
+    },
+    "room": "208",
+    "capacity": "20",
+    "notes": "3/6"
+  },
+  {
+    "department": "AS",
+    "courseCode": "PL 248",
+    "section": "",
+    "title": "Introduction to Marxist Theory",
+    "instructor": "Ken Knight",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "MON",
+      "time": "8:45-11:30"
+    },
+    "room": "104",
+    "capacity": "25",
+    "notes": "Fast Track"
+  },
+  {
+    "department": "AS",
+    "courseCode": "WH 250",
+    "section": "",
+    "title": "African American History",
+    "instructor": "John Portlock",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "M TH",
+      "time": "1:30-2:45"
+    },
+    "room": "104",
+    "capacity": "25",
+    "notes": "Fast Track"
+  },
+  {
+    "department": "AS",
+    "courseCode": "WH 378",
+    "section": "",
+    "title": "Cultural Remembrance & Traditions of Commemoration",
+    "instructor": "Rebekah Bryer",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "WED",
+      "time": "12:00-2:45"
+    },
+    "room": "104",
+    "capacity": "12",
+    "notes": "cross-list w/ AH 378"
+  },
+  {
+    "department": "FN",
+    "courseCode": "DR 100",
+    "section": "A",
+    "title": "Introduction to Drawing",
+    "instructor": "Ling-Wen Tsai",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "M W",
+      "time": "6:30-9:15"
+    },
+    "room": "102",
+    "capacity": "18",
+    "notes": ""
+  },
+  {
+    "department": "FN",
+    "courseCode": "DR 242",
+    "section": "",
+    "title": "Color & Drawing: Mixed Media",
+    "instructor": "Jim Flahaven",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "M TH",
+      "time": "1:30-4:15"
+    },
+    "room": "102",
+    "capacity": "18",
+    "notes": "3/6/26"
+  },
+  {
+    "department": "FN",
+    "courseCode": "DR 400",
+    "section": "",
+    "title": "Advanced Drawing- (Capstone students only)",
+    "instructor": "Sarah Shaw",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "-",
+      "time": "-"
+    },
+    "room": "-",
+    "capacity": "x",
+    "notes": ""
+  },
+  {
+    "department": "FN",
+    "courseCode": "FN 101",
+    "section": "B1",
+    "title": "Digital Imaging & Fabrication",
+    "instructor": "Tracey Cockrell",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "M TH",
+      "time": "8:30-11:15"
+    },
+    "room": "305-407",
+    "capacity": "18",
+    "notes": "3/6"
+  },
+  {
+    "department": "FN",
+    "courseCode": "FN 101",
+    "section": "B2",
+    "title": "Digital Imaging & Fabrication",
+    "instructor": "Bennett Morris",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "TU FR",
+      "time": "8:30-11:15"
+    },
+    "room": "13- 407",
+    "capacity": "18",
+    "notes": "3/6/26"
+  },
+  {
+    "department": "FN",
+    "courseCode": "FN 101",
+    "section": "DP1",
+    "title": "Digital Imaging: Drawing & Painting",
+    "instructor": "Patricia Brace",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "TU TH",
+      "time": "6:30-9:15"
+    },
+    "room": "305",
+    "capacity": "18",
+    "notes": "2/20"
+  },
+  {
+    "department": "FN",
+    "courseCode": "FN 101",
+    "section": "DP2",
+    "title": "Digital Imaging: Drawing & Painting",
+    "instructor": "Leticia Plate",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "M TH",
+      "time": "8:30-11:15"
+    },
+    "room": "277",
+    "capacity": "18",
+    "notes": ""
+  },
+  {
+    "department": "FN",
+    "courseCode": "FN 101",
+    "section": "DP3",
+    "title": "Digital Imaging: Drawing & Painting (possibly I&F)",
+    "instructor": "Tracey Cockrell",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "TU FR",
+      "time": "3:00-5:45"
+    },
+    "room": "305",
+    "capacity": "18",
+    "notes": ""
+  },
+  {
+    "department": "FN",
+    "courseCode": "FN 101",
+    "section": "PH1",
+    "title": "Digital Imaging: Photography",
+    "instructor": "Tabitha Barnard",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "M W",
+      "time": "6:30-9:15"
+    },
+    "room": "013-025",
+    "capacity": "16",
+    "notes": ""
+  },
+  {
+    "department": "FN",
+    "courseCode": "FN 109",
+    "section": "1ST",
+    "title": "3D Materiality: Sculpture. week 1-7",
+    "instructor": "Ben Spalding",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "TU FR",
+      "time": "3:00-5:45"
+    },
+    "room": "508",
+    "capacity": "12",
+    "notes": "TC email  2/20"
+  },
+  {
+    "department": "FN",
+    "courseCode": "FN 109",
+    "section": "2ST",
+    "title": "3D Materiality: Sculpture. week 8-14",
+    "instructor": "Ben Spalding",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "TU FR",
+      "time": "3:00-5:45"
+    },
+    "room": "508",
+    "capacity": "-",
+    "notes": "TC email  2/20"
+  },
+  {
+    "department": "FN",
+    "courseCode": "FN 109",
+    "section": "1TS",
+    "title": "3D Materiality: Textiles.  week 8-14",
+    "instructor": "Elana Adler",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "TU FR",
+      "time": "3:00-5:45"
+    },
+    "room": "302-303",
+    "capacity": "-",
+    "notes": ""
+  },
+  {
+    "department": "FN",
+    "courseCode": "FN 109",
+    "section": "2TS",
+    "title": "3D Materiality: Textiles. week 1-7",
+    "instructor": "Elana Adler",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "TU FR",
+      "time": "3:00-5:45"
+    },
+    "room": "302-303",
+    "capacity": "12",
+    "notes": ""
+  },
+  {
+    "department": "FN",
+    "courseCode": "FN 109",
+    "section": "3SM",
+    "title": "3D Materiality: Sculpture  week 1-7",
+    "instructor": "Ben Spalding",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "TU FR",
+      "time": "8:30-11:15"
+    },
+    "room": "508",
+    "capacity": "12",
+    "notes": "TC email  2/20"
+  },
+  {
+    "department": "FN",
+    "courseCode": "FN 109",
+    "section": "4SM",
+    "title": "3D Materiality: Sculpture week 8-14",
+    "instructor": "Ben Spalding",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "TU FR",
+      "time": "8:30-11:15"
+    },
+    "room": "508",
+    "capacity": "-",
+    "notes": "TC email  2/20"
+  },
+  {
+    "department": "FN",
+    "courseCode": "FN 109",
+    "section": "3MS",
+    "title": "3D Materiality: Metals  week 8-14",
+    "instructor": "Sharon Portelance",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "TU FR",
+      "time": "8:30-11:15"
+    },
+    "room": "408",
+    "capacity": "-",
+    "notes": ""
+  },
+  {
+    "department": "FN",
+    "courseCode": "FN 109",
+    "section": "4MS",
+    "title": "3D Materiality: Metals. week 1-7",
+    "instructor": "Sharon Portelance",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "TU FR",
+      "time": "8:30-11:15"
+    },
+    "room": "408",
+    "capacity": "12",
+    "notes": ""
+  },
+  {
+    "department": "FN",
+    "courseCode": "FN 109",
+    "section": "5CW",
+    "title": "3D Materiality: Ceramics week 1-7",
+    "instructor": "Patrick Coughlin",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "TU FR",
+      "time": "3:00-5:45"
+    },
+    "room": "511",
+    "capacity": "12",
+    "notes": ""
+  },
+  {
+    "department": "FN",
+    "courseCode": "FN 109",
+    "section": "5WC",
+    "title": "3D Materiality:Woodworking  week 8-14",
+    "instructor": "John Gardiner",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "TU FR",
+      "time": "3:00-5:45"
+    },
+    "room": "318-319",
+    "capacity": "-",
+    "notes": ""
+  },
+  {
+    "department": "FN",
+    "courseCode": "FN 109",
+    "section": "6WC",
+    "title": "3D Materiality: Woodworking wk 1-7",
+    "instructor": "John Gardiner",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "TU FR",
+      "time": "3:00-5:45"
+    },
+    "room": "318-319",
+    "capacity": "12",
+    "notes": ""
+  },
+  {
+    "department": "FN",
+    "courseCode": "FN 109",
+    "section": "6CW",
+    "title": "3D Materiality: Ceramics week 8-14",
+    "instructor": "Patrick Coughlin",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "TU FR",
+      "time": "3:00-5:45"
+    },
+    "room": "511",
+    "capacity": "-",
+    "notes": ""
+  },
+  {
+    "department": "FN",
+    "courseCode": "FN 109",
+    "section": "7CM",
+    "title": "3D Materiality: Ceramics week 1-7",
+    "instructor": "Kari Radasch",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "TU FR",
+      "time": "8:30-11:15"
+    },
+    "room": "511",
+    "capacity": "12",
+    "notes": ""
+  },
+  {
+    "department": "FN",
+    "courseCode": "FN 109",
+    "section": "7MC",
+    "title": "3D Materiality: Metals week 8-14",
+    "instructor": "Sharon Portelance",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "TU FR",
+      "time": "8:30-11:15"
+    },
+    "room": "408",
+    "capacity": "-",
+    "notes": ""
+  },
+  {
+    "department": "FN",
+    "courseCode": "FN 109",
+    "section": "8MC",
+    "title": "3D Materiality: Metals week 1-7",
+    "instructor": "Sharon Portelance",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "TU FR",
+      "time": "8:30-11:15"
+    },
+    "room": "408",
+    "capacity": "12",
+    "notes": ""
+  },
+  {
+    "department": "FN",
+    "courseCode": "FN 109",
+    "section": "8CM",
+    "title": "3D Materiality: Ceramics week 8-14",
+    "instructor": "Kari Radasch",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "TU FR",
+      "time": "8:30-11:15"
+    },
+    "room": "511",
+    "capacity": "-",
+    "notes": ""
+  },
+  {
+    "department": "FN",
+    "courseCode": "FN 113",
+    "section": "1",
+    "title": "Two-Dimensional Design",
+    "instructor": "Greta Bank",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "TU FR",
+      "time": "3:00-4:45"
+    },
+    "room": "502",
+    "capacity": "18",
+    "notes": "3/5"
+  },
+  {
+    "department": "FN",
+    "courseCode": "FN 113",
+    "section": "2",
+    "title": "Two-Dimensional Design",
+    "instructor": "Philip Brou",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "TU FR",
+      "time": "8:30-11:15"
+    },
+    "room": "502",
+    "capacity": "18",
+    "notes": "3/5"
+  },
+  {
+    "department": "FN",
+    "courseCode": "FN 113",
+    "section": "3",
+    "title": "Two-Dimensional Design",
+    "instructor": "Jennifer Brou-J",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "M TH",
+      "time": "8:30-11:15"
+    },
+    "room": "502",
+    "capacity": "18",
+    "notes": "3/5"
+  },
+  {
+    "department": "FN",
+    "courseCode": "FN 113",
+    "section": "4",
+    "title": "Two-Dimensional Design",
+    "instructor": "Jennifer Brou-J",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "M TH",
+      "time": "1:30-4:15"
+    },
+    "room": "502",
+    "capacity": "18",
+    "notes": "3/5/26"
+  },
+  {
+    "department": "FN",
+    "courseCode": "FN 113",
+    "section": "D1",
+    "title": "Two-Dimensional Design: Digital",
+    "instructor": "George Larou",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "TU FR",
+      "time": "8:30-11:15"
+    },
+    "room": "305",
+    "capacity": "18",
+    "notes": "fast track and test section"
+  },
+  {
+    "department": "FN",
+    "courseCode": "FN 113",
+    "section": "D2",
+    "title": "Two-Dimensional Design: Digital",
+    "instructor": "Peter Alfano",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "TU FR",
+      "time": "12:00-2:45"
+    },
+    "room": "305",
+    "capacity": "18",
+    "notes": "fast track and test section"
+  },
+  {
+    "department": "AG",
+    "courseCode": "AG 100",
+    "section": "1",
+    "title": "Intro to Game Development",
+    "instructor": "Adam deGrandis",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "M TH",
+      "time": "1:30-4:15"
+    },
+    "room": "289",
+    "capacity": "18",
+    "notes": "3/6"
+  },
+  {
+    "department": "AG",
+    "courseCode": "AG 101",
+    "section": "1",
+    "title": "Animation I",
+    "instructor": "Hanji Chang",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "M TH",
+      "time": "8:45-11:30"
+    },
+    "room": "289",
+    "capacity": "18",
+    "notes": "3/6"
+  },
+  {
+    "department": "AG",
+    "courseCode": "AG 120",
+    "section": "1",
+    "title": "Storyboarding for Animation",
+    "instructor": "Spencer Laudiero",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "TU FR",
+      "time": "3:00-5:45"
+    },
+    "room": "277",
+    "capacity": "18",
+    "notes": ""
+  },
+  {
+    "department": "AG",
+    "courseCode": "AG 201",
+    "section": "1",
+    "title": "Character Animation",
+    "instructor": "Adam Fisher",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "TU FR",
+      "time": "12:00-2:45"
+    },
+    "room": "277",
+    "capacity": "18",
+    "notes": ""
+  },
+  {
+    "department": "AG",
+    "courseCode": "AG 235",
+    "section": "",
+    "title": "Interfaces for Games",
+    "instructor": "George Larou",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "WED",
+      "time": "12:00-5:30"
+    },
+    "room": "289",
+    "capacity": "18",
+    "notes": "GD xlist- please avoid conflict w/ GD majors\nNew Course Proposal approved Fall25"
+  },
+  {
+    "department": "AG",
+    "courseCode": "AG 245",
+    "section": "",
+    "title": "Intro to 3D Modeling & Animation",
+    "instructor": "Adam deGrandis",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "TU FR",
+      "time": "12:00-2:45"
+    },
+    "room": "289",
+    "capacity": "18",
+    "notes": ""
+  },
+  {
+    "department": "AG",
+    "courseCode": "AG 302",
+    "section": "",
+    "title": "Background Design for Animation",
+    "instructor": "Lauren Duda",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "M TH",
+      "time": "1:30--4:15"
+    },
+    "room": "277",
+    "capacity": "16",
+    "notes": ""
+  },
+  {
+    "department": "AG",
+    "courseCode": "AG 304",
+    "section": "2-level class",
+    "title": "Stop-Motion and FX",
+    "instructor": "Adam Fisher",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "WED",
+      "time": "9:00-2:45"
+    },
+    "room": "277",
+    "capacity": "14",
+    "notes": ""
+  },
+  {
+    "department": "AG",
+    "courseCode": "AG 305",
+    "section": "2-level class",
+    "title": "Adv Stop-Motion and FX",
+    "instructor": "Adam Fisher",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "WED",
+      "time": "9:00-2:45"
+    },
+    "room": "277",
+    "capacity": "-",
+    "notes": ""
+  },
+  {
+    "department": "AG",
+    "courseCode": "AG 310",
+    "section": "",
+    "title": "Interactive & Immersive Art: Experience Design and Installation",
+    "instructor": "James LaPlante",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "WED",
+      "time": "9:00-2:45"
+    },
+    "room": "509",
+    "capacity": "12",
+    "notes": "Crosslist with any department interested\nNew Course Proposal approved Fall25"
+  },
+  {
+    "department": "AG",
+    "courseCode": "AG 321",
+    "section": "",
+    "title": "Major Production Studio I",
+    "instructor": "George Larou",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "M TH",
+      "time": "8:45-11:30"
+    },
+    "room": "MAJOR SPACE",
+    "capacity": "junior",
+    "notes": ""
+  },
+  {
+    "department": "AG",
+    "courseCode": "AG 321",
+    "section": "",
+    "title": "Major Production Studio I",
+    "instructor": "Spencer Laudiero",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "M TH",
+      "time": "8:45-11:30"
+    },
+    "room": "MAJOR SPACE",
+    "capacity": "junior",
+    "notes": ""
+  },
+  {
+    "department": "AG",
+    "courseCode": "AG 328",
+    "section": "",
+    "title": "Special Topics: (AE) Social Media Entrepreneurship",
+    "instructor": "Chad Hurd",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "M W",
+      "time": "6:30-9:15"
+    },
+    "room": "289",
+    "capacity": "18",
+    "notes": ""
+  },
+  {
+    "department": "AG",
+    "courseCode": "AG 329",
+    "section": "",
+    "title": "Special Topics: Shaders & VFX",
+    "instructor": "Adam deGrandis",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "TU FR",
+      "time": "3:00-5:45"
+    },
+    "room": "289",
+    "capacity": "18",
+    "notes": ""
+  },
+  {
+    "department": "AG",
+    "courseCode": "AG 421",
+    "section": "",
+    "title": "Major Capstone Project Pre-Production",
+    "instructor": "Adam Fisher",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "M TH",
+      "time": "8:45-11:30"
+    },
+    "room": "MAJOR SPACE",
+    "capacity": "seniors",
+    "notes": ""
+  },
+  {
+    "department": "AG",
+    "courseCode": "AG 421",
+    "section": "",
+    "title": "Major Capstone Project Pre-Production",
+    "instructor": "Phoenix Stroh",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "M TH",
+      "time": "8:45-11:30"
+    },
+    "room": "MAJOR SPACE",
+    "capacity": "seniors",
+    "notes": ""
+  },
+  {
+    "department": "AM",
+    "courseCode": "AM 100",
+    "section": "",
+    "title": "(M) Elements of Music I",
+    "instructor": "Hans Indigio Spencer",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "M TH",
+      "time": "3:00-5:45"
+    },
+    "room": "007",
+    "capacity": "12",
+    "notes": ""
+  },
+  {
+    "department": "AM",
+    "courseCode": "AM 103",
+    "section": "",
+    "title": "Instrumental Lab: Guitar  (1 cr. class/ week 1-7)",
+    "instructor": "Pat Keane",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "TUE",
+      "time": "6:30-8:00"
+    },
+    "room": "007",
+    "capacity": "12",
+    "notes": ""
+  },
+  {
+    "department": "AM",
+    "courseCode": "AM 106",
+    "section": "",
+    "title": "Instrumental Lab: Percussion (1 cr. class/ week 1-7)",
+    "instructor": "Chaz Lester",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "WED",
+      "time": "8:15-9:30"
+    },
+    "room": "007",
+    "capacity": "12",
+    "notes": ""
+  },
+  {
+    "department": "AM",
+    "courseCode": "AM 202",
+    "section": "",
+    "title": "Sound Design \u2013 Painting in the Sonic Realm",
+    "instructor": "Steve Drown",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "WED",
+      "time": "12:00-5:30"
+    },
+    "room": "007",
+    "capacity": "16",
+    "notes": ""
+  },
+  {
+    "department": "AM",
+    "courseCode": "AM 400",
+    "section": "",
+    "title": "(M) Music Minor Capstone",
+    "instructor": "Steve Drown",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "-",
+      "time": "-"
+    },
+    "room": "-",
+    "capacity": "x",
+    "notes": ""
+  },
+  {
+    "department": "CE",
+    "courseCode": "CE 101",
+    "section": "1",
+    "title": "Ceramics Handbuilding",
+    "instructor": "Kari Radasch",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "TU FR",
+      "time": "12:00-2:45"
+    },
+    "room": "511",
+    "capacity": "16",
+    "notes": ""
+  },
+  {
+    "department": "CE",
+    "courseCode": "CE 201",
+    "section": "1",
+    "title": "Ceramics Throwing- Beginning",
+    "instructor": "Tyler Gulden",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "M TH",
+      "time": "1:30-4:15"
+    },
+    "room": "511",
+    "capacity": "14",
+    "notes": ""
+  },
+  {
+    "department": "CE",
+    "courseCode": "CE 310",
+    "section": "",
+    "title": "(AE) From Clay to Commerce",
+    "instructor": "Patrick Coughlin",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "WED",
+      "time": "9:00-2:45"
+    },
+    "room": "511",
+    "capacity": "14",
+    "notes": ""
+  },
+  {
+    "department": "CE",
+    "courseCode": "CE 311",
+    "section": "",
+    "title": "Glaze Chemistry & Kiln Firing",
+    "instructor": "Patrick Coughlin",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "TU FR",
+      "time": "8:30-11:15"
+    },
+    "room": "501-511",
+    "capacity": "16",
+    "notes": ""
+  },
+  {
+    "department": "CE",
+    "courseCode": "CE 301",
+    "section": "",
+    "title": "Ceramics III: Majors Studio. [anticipate 6 juniors]",
+    "instructor": "Autumn Cipala",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "M TH",
+      "time": "8:45-11:30"
+    },
+    "room": "501-511",
+    "capacity": "junior",
+    "notes": ""
+  },
+  {
+    "department": "CE",
+    "courseCode": "CE 401",
+    "section": "",
+    "title": "Ceramics IV: Majors Studio [anticipate 2 seniors]",
+    "instructor": "Autumn Cipala",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "M TH",
+      "time": "8:45-11:30"
+    },
+    "room": "501-511",
+    "capacity": "seniors",
+    "notes": ""
+  },
+  {
+    "department": "GD",
+    "courseCode": "GD 111",
+    "section": "",
+    "title": "Perpetual Play",
+    "instructor": "Lorin Brown",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "M W",
+      "time": "6:30-9:15"
+    },
+    "room": "305- 316B",
+    "capacity": "20",
+    "notes": "3/6/26"
+  },
+  {
+    "department": "GD",
+    "courseCode": "GD 211",
+    "section": "",
+    "title": "Typography 1",
+    "instructor": "Peter Alfano",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "TU FR",
+      "time": "3:00-5:45"
+    },
+    "room": "316B",
+    "capacity": "18",
+    "notes": ""
+  },
+  {
+    "department": "GD",
+    "courseCode": "GD 336",
+    "section": "",
+    "title": "Special Topics: Motion Design",
+    "instructor": "Peter Alfano",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "M TH",
+      "time": "1:30-4:15"
+    },
+    "room": "316B",
+    "capacity": "junior",
+    "notes": ""
+  },
+  {
+    "department": "GD",
+    "courseCode": "GD 353",
+    "section": "",
+    "title": "History of Graphic Design [anticipate 6 juniors]",
+    "instructor": "Mary-Jo Valentino",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "M TH",
+      "time": "8:30-11:15"
+    },
+    "room": "07 - 316B",
+    "capacity": "18",
+    "notes": ""
+  },
+  {
+    "department": "GD",
+    "courseCode": "GD 431",
+    "section": "",
+    "title": "Senior Studio. [anticipate 8 seniors]",
+    "instructor": "TBA TBA",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "M TH",
+      "time": "8:45-11:30"
+    },
+    "room": "MAJOR SPACE",
+    "capacity": "seniors",
+    "notes": "3/6"
+  },
+  {
+    "department": "IL",
+    "courseCode": "IL 104",
+    "section": "1",
+    "title": "Intro to Ink for Illustrators",
+    "instructor": "Michael Connor",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "TU FR",
+      "time": "8:30-11:15"
+    },
+    "room": "509",
+    "capacity": "18",
+    "notes": ""
+  },
+  {
+    "department": "IL",
+    "courseCode": "IL 104",
+    "section": "2",
+    "title": "Intro to Ink for Illustrators",
+    "instructor": "Michael Connor",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "TU FR",
+      "time": "12:00-2:45"
+    },
+    "room": "509",
+    "capacity": "18",
+    "notes": ""
+  },
+  {
+    "department": "IL",
+    "courseCode": "IL 107",
+    "section": "1",
+    "title": "Portrait Drawing in Illustration: People and Animals",
+    "instructor": "Andrew DeGraff",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "M TH",
+      "time": "1:30-4:15"
+    },
+    "room": "103",
+    "capacity": "18",
+    "notes": ""
+  },
+  {
+    "department": "IL",
+    "courseCode": "IL 240",
+    "section": "1",
+    "title": "Setting the Scene",
+    "instructor": "Michael Connor",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "M TH",
+      "time": "1:30-4:15"
+    },
+    "room": "509",
+    "capacity": "18",
+    "notes": ""
+  },
+  {
+    "department": "IL",
+    "courseCode": "IL 240",
+    "section": "2",
+    "title": "Setting the Scene",
+    "instructor": "Devin Harrington",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "M W",
+      "time": "6:30-9:15"
+    },
+    "room": "103",
+    "capacity": "18",
+    "notes": ""
+  },
+  {
+    "department": "IL",
+    "courseCode": "IL 310",
+    "section": "",
+    "title": "The Picture Book",
+    "instructor": "Sarah Shaw",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "TU FR",
+      "time": "12:00-2:45"
+    },
+    "room": "502",
+    "capacity": "18",
+    "notes": ""
+  },
+  {
+    "department": "IL",
+    "courseCode": "IL 314",
+    "section": "",
+    "title": "Digital Mixed Media for Illustrators",
+    "instructor": "Leticia Plate",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "M TH",
+      "time": "1:30-4:15"
+    },
+    "room": "305",
+    "capacity": "18",
+    "notes": ""
+  },
+  {
+    "department": "IL",
+    "courseCode": "IL 321",
+    "section": "1",
+    "title": "Illustration Majors Studio. [anticipate 26 juniors]",
+    "instructor": "Sarah Shaw",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "TU FR",
+      "time": "8:45-11:30"
+    },
+    "room": "315",
+    "capacity": "junior",
+    "notes": ""
+  },
+  {
+    "department": "IL",
+    "courseCode": "IL 321",
+    "section": "2",
+    "title": "Illustration Majors Studio",
+    "instructor": "Andrew DeGraff",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "M TH",
+      "time": "8:45-11:30"
+    },
+    "room": "315",
+    "capacity": "junior",
+    "notes": ""
+  },
+  {
+    "department": "IL",
+    "courseCode": "IL 421",
+    "section": "",
+    "title": "Illustration Majors Studio  [anticipate 18 seniors]",
+    "instructor": "Devin Harrington",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "M W",
+      "time": "3:00-5:45"
+    },
+    "room": "MAJOR SPACE",
+    "capacity": "senior",
+    "notes": ""
+  },
+  {
+    "department": "IL",
+    "courseCode": "IL 421",
+    "section": "",
+    "title": "Illustration Majors Studio",
+    "instructor": "TBA TBA",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "M W",
+      "time": "3:00-5:45"
+    },
+    "room": "MAJOR SPACE",
+    "capacity": "-",
+    "notes": ""
+  },
+  {
+    "department": "IL",
+    "courseCode": "IL 107",
+    "section": "2",
+    "title": "Portrait Drawing in Illustration: People and Animals",
+    "instructor": "Devin Harrington",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "",
+      "time": ""
+    },
+    "room": "",
+    "capacity": "0",
+    "notes": ""
+  },
+  {
+    "department": "IL",
+    "courseCode": "IL 240",
+    "section": "3",
+    "title": "Setting the Scene",
+    "instructor": "TBD",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "",
+      "time": ""
+    },
+    "room": "",
+    "capacity": "0",
+    "notes": ""
+  },
+  {
+    "department": "MJ",
+    "courseCode": "MJ 101",
+    "section": "",
+    "title": "Metalsmithing & Jewelry I",
+    "instructor": "Kyle Patnaude",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "TU FR",
+      "time": "12:00-2:45"
+    },
+    "room": "408-408B",
+    "capacity": "17",
+    "notes": ""
+  },
+  {
+    "department": "MJ",
+    "courseCode": "MJ 216",
+    "section": "",
+    "title": "Designing - More than One",
+    "instructor": "Sharon Portelance",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "M TH",
+      "time": "1:30-4:15"
+    },
+    "room": "408-408B",
+    "capacity": "17",
+    "notes": ""
+  },
+  {
+    "department": "MJ",
+    "courseCode": "MJ 301",
+    "section": "-",
+    "title": "Metalsmithing & Jewelry Majors Studio. [anticipate 6 juniors]",
+    "instructor": "Sharon Portelance",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "M TH",
+      "time": "8:45-11:30"
+    },
+    "room": "408-408B",
+    "capacity": "junior",
+    "notes": ""
+  },
+  {
+    "department": "MJ",
+    "courseCode": "MJ 401",
+    "section": "-",
+    "title": "Metalsmithing & Jewelry Majors Studio. [anticipate 2 seniors]",
+    "instructor": "Sharon Portelance",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "M TH",
+      "time": "8:45-11:30"
+    },
+    "room": "408-408B",
+    "capacity": "senior",
+    "notes": ""
+  },
+  {
+    "department": "PT",
+    "courseCode": "PT 100",
+    "section": "1",
+    "title": "Foundations in Painting",
+    "instructor": "Andy Rosen",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "TU FR",
+      "time": "3:00-5:45"
+    },
+    "room": "402",
+    "capacity": "18",
+    "notes": "3/6"
+  },
+  {
+    "department": "PT",
+    "courseCode": "PT 224",
+    "section": "",
+    "title": "Painting the Human Form",
+    "instructor": "Philip Brou-P",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "TU FR",
+      "time": "12:00-2:45"
+    },
+    "room": "402",
+    "capacity": "18",
+    "notes": ""
+  },
+  {
+    "department": "PT",
+    "courseCode": "PT 227",
+    "section": "",
+    "title": "Hybrid Painting as Contemporary Practice",
+    "instructor": "Honour Mack",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "M TH",
+      "time": "1:30-4:15"
+    },
+    "room": "402",
+    "capacity": "18",
+    "notes": "3/6"
+  },
+  {
+    "department": "PT",
+    "courseCode": "PT 321",
+    "section": "-",
+    "title": "Painting Majors Studio. [anticipate 10 juniors]",
+    "instructor": "Honour Mack",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "M TH",
+      "time": "8:45-11:30"
+    },
+    "room": "401",
+    "capacity": "junior",
+    "notes": ""
+  },
+  {
+    "department": "PT",
+    "courseCode": "PT 421",
+    "section": "-",
+    "title": "Painting Majors Studio. [anticipate 8 seniors]",
+    "instructor": "Philip Brou-P",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "M TH",
+      "time": "8:45-11:30"
+    },
+    "room": "401",
+    "capacity": "seniors",
+    "notes": ""
+  },
+  {
+    "department": "PT",
+    "courseCode": "PT 100",
+    "section": "2",
+    "title": "Foundations in Painting",
+    "instructor": "Honour Mack",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "",
+      "time": ""
+    },
+    "room": "",
+    "capacity": "0",
+    "notes": ""
+  },
+  {
+    "department": "PH",
+    "courseCode": "PH 101",
+    "section": "1",
+    "title": "Analogue Photography",
+    "instructor": "Justin Kirchoff",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "M TH",
+      "time": "8:45-11:30"
+    },
+    "room": "O13, 025, 412",
+    "capacity": "20",
+    "notes": "Fast track name change"
+  },
+  {
+    "department": "PH",
+    "courseCode": "PH 206",
+    "section": "",
+    "title": "Medium Format Photography",
+    "instructor": "Justin Kirchoff",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "WED",
+      "time": "12:00-5:30"
+    },
+    "room": "O13, 025, 412",
+    "capacity": "17",
+    "notes": ""
+  },
+  {
+    "department": "PH",
+    "courseCode": "PH 321/421",
+    "section": "",
+    "title": "Photography Majors Studio",
+    "instructor": "Justin Kirchoff",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "TH",
+      "time": "3:00-5:45"
+    },
+    "room": "O13, 025, 412",
+    "capacity": "mixed",
+    "notes": "Time changed"
+  },
+  {
+    "department": "PH",
+    "courseCode": "PH 321",
+    "section": "",
+    "title": "Photography Majors Studio. [anticipate 4 juniors]",
+    "instructor": "Scott Peterman",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "M TH",
+      "time": "3:00-5:45"
+    },
+    "room": "O13, 025, 412",
+    "capacity": "junior",
+    "notes": "Time changed"
+  },
+  {
+    "department": "PH",
+    "courseCode": "PH 421",
+    "section": "",
+    "title": "Photography Majors Studio. [anticipate 4 seniors]",
+    "instructor": "Scott Peterman",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "M TH",
+      "time": "3:00-5:45"
+    },
+    "room": "O13, 025, 412",
+    "capacity": "senior",
+    "notes": "Time changed"
+  },
+  {
+    "department": "PH",
+    "courseCode": "PH 314",
+    "section": "",
+    "title": "Experimental Photography",
+    "instructor": "Dylan Hausthor",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "",
+      "time": ""
+    },
+    "room": "",
+    "capacity": "0",
+    "notes": "Move to Spring"
+  },
+  {
+    "department": "PR",
+    "courseCode": "PR 100",
+    "section": "1",
+    "title": "Intro to Printmaking Techniques",
+    "instructor": "TBA TBA",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "TU FR",
+      "time": "8:30-11:15"
+    },
+    "room": "406",
+    "capacity": "16",
+    "notes": ""
+  },
+  {
+    "department": "PR",
+    "courseCode": "PR 201",
+    "section": "",
+    "title": "Intaglio Printmaking I",
+    "instructor": "Sage Leafsong",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "M TH",
+      "time": "1:30-4:15"
+    },
+    "room": "406",
+    "capacity": "16",
+    "notes": ""
+  },
+  {
+    "department": "PR",
+    "courseCode": "PR 301",
+    "section": "",
+    "title": "Printmaking Majors Studio  [anticipate 2 juniors]",
+    "instructor": "Bennett Morris",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "M TH",
+      "time": "8:45-11:30"
+    },
+    "room": "405-406",
+    "capacity": "junior",
+    "notes": ""
+  },
+  {
+    "department": "PR",
+    "courseCode": "PR 401",
+    "section": "",
+    "title": "Printmaking Majors Studio  [anticipate 5 seniors]",
+    "instructor": "Bennett Morris",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "M TH",
+      "time": "8:45-11:30"
+    },
+    "room": "405-406",
+    "capacity": "seniors",
+    "notes": ""
+  },
+  {
+    "department": "PR",
+    "courseCode": "PR 212",
+    "section": "",
+    "title": "Screen Printing and Installation",
+    "instructor": "TBA TBA",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "",
+      "time": ""
+    },
+    "room": "",
+    "capacity": "0",
+    "notes": "name change"
+  },
+  {
+    "department": "SC",
+    "courseCode": "SC 106",
+    "section": "",
+    "title": "(PE-S) Sculpture in Context: Installation, Multiples, Land Art",
+    "instructor": "Ling-Wen Tsai",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "M TH",
+      "time": "1:30-4:15"
+    },
+    "room": "505-508",
+    "capacity": "12",
+    "notes": ""
+  },
+  {
+    "department": "SC",
+    "courseCode": "SC 251",
+    "section": "",
+    "title": "Mold Making: Form & Transformation",
+    "instructor": "Joshua Reiman",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "TU FR",
+      "time": "12:00-2:45"
+    },
+    "room": "505-508",
+    "capacity": "12",
+    "notes": ""
+  },
+  {
+    "department": "SC",
+    "courseCode": "SC 321",
+    "section": "-",
+    "title": "Sculpture: Junior Major Studio. [anticipate 6 juniors]",
+    "instructor": "Ben Spalding",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "TU TH",
+      "time": "6:30-9:15"
+    },
+    "room": "505-508",
+    "capacity": "junior",
+    "notes": ""
+  },
+  {
+    "department": "SC",
+    "courseCode": "SC 421",
+    "section": "-",
+    "title": "Sculpture: Senior Major Studio (3-6 cr option) [anticipate 9 seniors]",
+    "instructor": "Ling-Wen Tsai",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "WED",
+      "time": "12:00-5:30"
+    },
+    "room": "505-508",
+    "capacity": "seniors",
+    "notes": ""
+  },
+  {
+    "department": "TF",
+    "courseCode": "TF 101",
+    "section": "",
+    "title": "Introduction to Textiles",
+    "instructor": "Alysha Kupferer",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "M TH",
+      "time": "1:30-4:15"
+    },
+    "room": "302-303",
+    "capacity": "17",
+    "notes": ""
+  },
+  {
+    "department": "TF",
+    "courseCode": "TF 102",
+    "section": "",
+    "title": "Introduction to Fashion and Apparel",
+    "instructor": "Betsy Scheintaub",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "TU FR",
+      "time": "12:00-2:45"
+    },
+    "room": "302-303",
+    "capacity": "15",
+    "notes": ""
+  },
+  {
+    "department": "TF",
+    "courseCode": "TF 202",
+    "section": "",
+    "title": "(AE) Textile Printing",
+    "instructor": "Alysha Kupferer",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "WED",
+      "time": "12:00-5:30"
+    },
+    "room": "301-302-303",
+    "capacity": "15",
+    "notes": "Please avoid conflicts w/ Printmaking Major Requirements"
+  },
+  {
+    "department": "TF",
+    "courseCode": "TF 322",
+    "section": "",
+    "title": "(AE) Advanced Pattern Drafting & Construction [anticipate 2 juniors]",
+    "instructor": "Betsy Scheintaub",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "M TH",
+      "time": "8:45-11:15"
+    },
+    "room": "301-302-303",
+    "capacity": "juniors",
+    "notes": ""
+  },
+  {
+    "department": "TF",
+    "courseCode": "TF 421",
+    "section": "",
+    "title": "Advanced Projects in Textiles or Fashion [anticipate 8 seniors]",
+    "instructor": "Mali Mrozinski",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "M TH",
+      "time": "8:45-11:15"
+    },
+    "room": "301-302-303",
+    "capacity": "seniors",
+    "notes": ""
+  },
+  {
+    "department": "WF",
+    "courseCode": "WF 235",
+    "section": "",
+    "title": "CURViture",
+    "instructor": "John Gardiner",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "M TH",
+      "time": "1:30-4:15"
+    },
+    "room": "318-319",
+    "capacity": "12",
+    "notes": ""
+  },
+  {
+    "department": "WF",
+    "courseCode": "WF 246",
+    "section": "",
+    "title": "Woodworking in Two Dimensions",
+    "instructor": "John Gardiner",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "TU FR",
+      "time": "12:00-2:45"
+    },
+    "room": "318-319",
+    "capacity": "12",
+    "notes": "This course is new proposal and to run only if you think it would fill. Nikki knows the reasoning for it. Faculty approved, vote 12/4/25"
+  },
+  {
+    "department": "WF",
+    "courseCode": "WF 321",
+    "section": "REQ",
+    "title": "Woodworking & Furniture Majors Studio  [anticipate 5 juniors]",
+    "instructor": "TBA TBA",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "M TH",
+      "time": "8:45-11:30"
+    },
+    "room": "317-318-319",
+    "capacity": "juniors",
+    "notes": ""
+  },
+  {
+    "department": "WF",
+    "courseCode": "WF 421",
+    "section": "REQ",
+    "title": "Woodworking & Furniture Majors Studio  [anticipate 5 seniors]",
+    "instructor": "TBA TBA",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "M TH",
+      "time": "8:45-11:30"
+    },
+    "room": "317-318-319",
+    "capacity": "seniors",
+    "notes": ""
+  },
+  {
+    "department": "WF",
+    "courseCode": "WF 101",
+    "section": "",
+    "title": "Introduction to Woodworking",
+    "instructor": "John Gardiner",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "",
+      "time": ""
+    },
+    "room": "",
+    "capacity": "12",
+    "notes": ""
+  },
+  {
+    "department": "PE",
+    "courseCode": "PE 400",
+    "section": "",
+    "title": "(PE) Public Engagement Minor Capstone",
+    "instructor": "TBA TBA",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "-",
+      "time": "-"
+    },
+    "room": "-",
+    "capacity": "IS",
+    "notes": ""
+  },
+  {
+    "department": "ST",
+    "courseCode": "ST 400",
+    "section": "",
+    "title": "(AE) Art & Entrepreneurship Minor Capstone",
+    "instructor": "TBD",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "-",
+      "time": "-"
+    },
+    "room": "-",
+    "capacity": "IS",
+    "notes": ""
+  },
+  {
+    "department": "SEM",
+    "courseCode": "SEM 100",
+    "section": "",
+    "title": "First Year Seminar",
+    "instructor": "Paul Gebhardt",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "WED",
+      "time": "10-11"
+    },
+    "room": "PMA",
+    "capacity": "120",
+    "notes": ""
+  },
+  {
+    "department": "SEM",
+    "courseCode": "SEM 353",
+    "section": "1",
+    "title": "3YR Seminar: Fine Art Topics-Practice.  [anticipate 22 students over 2 sections]",
+    "instructor": "Patricia Brace",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "TU FR",
+      "time": "3:00-5:45"
+    },
+    "room": "07",
+    "capacity": "20",
+    "notes": ""
+  },
+  {
+    "department": "SEM",
+    "courseCode": "SEM 353",
+    "section": "2",
+    "title": "3YR Seminar: Fine Art Topics-Practice.  [anticipate 22 students over 2 sections]",
+    "instructor": "Adriane Herman",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "TU FR",
+      "time": "3:00-5:45"
+    },
+    "room": "105",
+    "capacity": "20",
+    "notes": ""
+  },
+  {
+    "department": "SEM",
+    "courseCode": "SEM 354",
+    "section": "C",
+    "title": "3YR Seminar: Crafts   Topics- Practice. [anticipate 18 students]",
+    "instructor": "Kyle Patnaude",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "TU FR",
+      "time": "3:00-5:45"
+    },
+    "room": "250",
+    "capacity": "20",
+    "notes": ""
+  },
+  {
+    "department": "SEM",
+    "courseCode": "SEM 355",
+    "section": "1",
+    "title": "Illustration JR Seminar Sketchbook - Power, Practice, and Theory. [anticipate 26 students over 2 sections]",
+    "instructor": "Sarah Shaw",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "M TH",
+      "time": "3:00-5:45"
+    },
+    "room": "102",
+    "capacity": "20",
+    "notes": ""
+  },
+  {
+    "department": "SEM",
+    "courseCode": "SEM 355",
+    "section": "2",
+    "title": "Illustration JR Seminar Sketchbook - Power, Practice, and Theory. [anticipate 26 students over 2 sections]",
+    "instructor": "TBA TBA",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "W FR",
+      "time": "3:00-5:45"
+    },
+    "room": "103",
+    "capacity": "20",
+    "notes": ""
+  },
+  {
+    "department": "SEM",
+    "courseCode": "SEM 451",
+    "section": "AG",
+    "title": "Professional Studio - Animation & Game Art. [anticipate 21 students]",
+    "instructor": "James LaPlante",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "TU FR",
+      "time": "8:45-11:30"
+    },
+    "room": "289",
+    "capacity": "21",
+    "notes": ""
+  },
+  {
+    "department": "SEM",
+    "courseCode": "SEM 451",
+    "section": "C",
+    "title": "Professional Studio - CRAFT- CE-MJ-WF-TF [anticipate 15 students]",
+    "instructor": "Kyle Patnaude",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "TU FR",
+      "time": "8:45-11:30"
+    },
+    "room": "277",
+    "capacity": "20",
+    "notes": ""
+  },
+  {
+    "department": "SEM",
+    "courseCode": "SEM 451",
+    "section": "FA",
+    "title": "Professional Studio - FINE ARTS- PH-PR-PT-SC. [anticipate 25 students]",
+    "instructor": "Joshua Reiman",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "TU FR",
+      "time": "8:45-11:30"
+    },
+    "room": "213",
+    "capacity": "20",
+    "notes": ""
+  },
+  {
+    "department": "SEM",
+    "courseCode": "SEM 451",
+    "section": "DS",
+    "title": "Professional Studio - Design. [anticipate 8 students]",
+    "instructor": "Amy Parker",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "TU FR",
+      "time": "8:45-11:30"
+    },
+    "room": "316A",
+    "capacity": "20",
+    "notes": ""
+  },
+  {
+    "department": "SEM",
+    "courseCode": "SEM 451",
+    "section": "IL",
+    "title": "Professional Studio - Illustration. [anticipate 18 students]",
+    "instructor": "Letica Plate",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "TU FR",
+      "time": "8:45-11:30"
+    },
+    "room": "208",
+    "capacity": "20",
+    "notes": ""
+  },
+  {
+    "department": "AS",
+    "courseCode": "AH 397",
+    "section": "",
+    "title": "19th-Century Media Worlds",
+    "instructor": "Rose Logie",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "",
+      "time": ""
+    },
+    "room": "",
+    "capacity": "0",
+    "notes": "Moved to Spring"
+  },
+  {
+    "department": "AG",
+    "courseCode": "AG 100",
+    "section": "2",
+    "title": "Special Topics: Intro to Game Development",
+    "instructor": "Adam deGrandis",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "",
+      "time": ""
+    },
+    "room": "",
+    "capacity": "",
+    "notes": ""
+  },
+  {
+    "department": "AG",
+    "courseCode": "AG 101",
+    "section": "2",
+    "title": "Animation I",
+    "instructor": "Kevin Woods",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "",
+      "time": ""
+    },
+    "room": "",
+    "capacity": "",
+    "notes": ""
+  },
+  {
+    "department": "CE",
+    "courseCode": "CE 201",
+    "section": "2",
+    "title": "Ceramics Throwing- Beginning",
+    "instructor": "Christine Caswell",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "",
+      "time": ""
+    },
+    "room": "",
+    "capacity": "0",
+    "notes": ""
+  },
+  {
+    "department": "AS",
+    "courseCode": "HU 200",
+    "section": "5",
+    "title": "Millennium Approaches: America in the 21st Century",
+    "instructor": "sabine stxrm",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "",
+      "time": ""
+    },
+    "room": "",
+    "capacity": "0",
+    "notes": ""
+  },
+  {
+    "department": "FN",
+    "courseCode": "DR 100",
+    "section": "B",
+    "title": "Introduction to Drawing",
+    "instructor": "TBD",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "",
+      "time": ""
+    },
+    "room": "",
+    "capacity": "0",
+    "notes": ""
+  },
+  {
+    "department": "FN",
+    "courseCode": "FN 101",
+    "section": "DP4",
+    "title": "Digital Imaging: Drawing & Painting",
+    "instructor": "TBD",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "",
+      "time": ""
+    },
+    "room": "",
+    "capacity": "0",
+    "notes": ""
+  },
+  {
+    "department": "FN",
+    "courseCode": "FN 109",
+    "section": "",
+    "title": "3D Materiality:  Textiles. week 1-7",
+    "instructor": "TBD",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "",
+      "time": ""
+    },
+    "room": "",
+    "capacity": "0",
+    "notes": ""
+  },
+  {
+    "department": "FN",
+    "courseCode": "FN 109",
+    "section": "",
+    "title": "3D Materiality: Woodworking.  week 8-15",
+    "instructor": "TBD",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "",
+      "time": ""
+    },
+    "room": "",
+    "capacity": "-",
+    "notes": ""
+  },
+  {
+    "department": "FN",
+    "courseCode": "FN 109",
+    "section": "",
+    "title": "3D Materiality:  Woodworking. week 1-7",
+    "instructor": "TBD",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "",
+      "time": ""
+    },
+    "room": "",
+    "capacity": "0",
+    "notes": ""
+  },
+  {
+    "department": "FN",
+    "courseCode": "FN 109",
+    "section": "",
+    "title": "3D Materiality:  Textiles.  week 8-15",
+    "instructor": "TBD",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "",
+      "time": ""
+    },
+    "room": "",
+    "capacity": "-",
+    "notes": ""
+  },
+  {
+    "department": "FN",
+    "courseCode": "FN 113",
+    "section": "4",
+    "title": "Two-Dimensional Design",
+    "instructor": "TBD",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "",
+      "time": ""
+    },
+    "room": "",
+    "capacity": "0",
+    "notes": ""
+  },
+  {
+    "department": "FN",
+    "courseCode": "FN 113",
+    "section": "5",
+    "title": "Two-Dimensional Design",
+    "instructor": "TBD",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "",
+      "time": ""
+    },
+    "room": "",
+    "capacity": "0",
+    "notes": ""
+  },
+  {
+    "department": "AS",
+    "courseCode": "EN 100",
+    "section": "1",
+    "title": "English Composition",
+    "instructor": "Pedro Daher",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "X",
+      "time": "X"
+    },
+    "room": "X",
+    "capacity": "0",
+    "notes": ""
+  },
+  {
+    "department": "AS",
+    "courseCode": "EN 100",
+    "section": "2",
+    "title": "English Composition",
+    "instructor": "Pedro Daher",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "X",
+      "time": "X"
+    },
+    "room": "X",
+    "capacity": "0",
+    "notes": ""
+  },
+  {
+    "department": "AS",
+    "courseCode": "EN 100",
+    "section": "3",
+    "title": "English Composition",
+    "instructor": "Sharon Kunde",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "X",
+      "time": "X"
+    },
+    "room": "X",
+    "capacity": "0",
+    "notes": ""
+  },
+  {
+    "department": "AS",
+    "courseCode": "EN 100",
+    "section": "4",
+    "title": "English Composition",
+    "instructor": "Sharon Kunde",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "X",
+      "time": "X"
+    },
+    "room": "X",
+    "capacity": "0",
+    "notes": ""
+  },
+  {
+    "department": "AS",
+    "courseCode": "EN 100",
+    "section": "5",
+    "title": "English Composition",
+    "instructor": "John Portlock",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "X",
+      "time": "X"
+    },
+    "room": "X",
+    "capacity": "0",
+    "notes": ""
+  },
+  {
+    "department": "AS",
+    "courseCode": "EN 100",
+    "section": "6",
+    "title": "English Composition",
+    "instructor": "John Portlock",
+    "term": "BFA FALL",
+    "schedule": {
+      "day": "X",
+      "time": "X"
+    },
+    "room": "X",
+    "capacity": "0",
+    "notes": ""
+  },
+  {
+    "department": "AS",
+    "courseCode": "AH 102",
+    "section": "1",
+    "title": "Art History Survey II",
+    "instructor": "Rose Logie",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "M TH",
+      "time": "8:30-9:45"
+    },
+    "room": "104",
+    "capacity": "25",
+    "notes": "revised schedule",
+    "description": ""
+  },
+  {
+    "department": "AS",
+    "courseCode": "AH 102",
+    "section": "2",
+    "title": "Art History Survey II",
+    "instructor": "Rose Logie",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "M TH",
+      "time": "10:15-11:30"
+    },
+    "room": "104",
+    "capacity": "25",
+    "notes": "revised schedule",
+    "description": ""
+  },
+  {
+    "department": "AS",
+    "courseCode": "AH 102",
+    "section": "3",
+    "title": "Art History Survey II",
+    "instructor": "Alison Ferris",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "M TH",
+      "time": "3:00-4:15"
+    },
+    "room": "104",
+    "capacity": "25",
+    "notes": "revised schedule",
+    "description": ""
+  },
+  {
+    "department": "AS",
+    "courseCode": "AH 102",
+    "section": "4",
+    "title": "Art History Survey II",
+    "instructor": "Alison Ferris",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "M TH",
+      "time": "4:30-5:45"
+    },
+    "room": "104",
+    "capacity": "25",
+    "notes": "revised schedule",
+    "description": ""
+  },
+  {
+    "department": "AS",
+    "courseCode": "AH 250",
+    "section": "1",
+    "title": "Critical Approaches to Contemporary Art",
+    "instructor": "Marie Shurkus",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "M TH",
+      "time": "8:45-10:00"
+    },
+    "room": "7",
+    "capacity": "25",
+    "notes": "time change",
+    "description": ""
+  },
+  {
+    "department": "AS",
+    "courseCode": "AH 250",
+    "section": "2",
+    "title": "Critical Approaches to Contemporary Art",
+    "instructor": "Marie Shurkus",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "M TH",
+      "time": "10:15-11:30"
+    },
+    "room": "7",
+    "capacity": "25",
+    "notes": "",
+    "description": ""
+  },
+  {
+    "department": "AS",
+    "courseCode": "AH 250",
+    "section": "3",
+    "title": "Critical Approaches to Contemporary Art",
+    "instructor": "Laura Jourdan Palmer",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "TU FR",
+      "time": "1:30-2:45"
+    },
+    "room": "104",
+    "capacity": "25",
+    "notes": "",
+    "description": ""
+  },
+  {
+    "department": "AS",
+    "courseCode": "AH 250",
+    "section": "4",
+    "title": "Critical Approaches to Contemporary Art",
+    "instructor": "Laura Jourdan Palmer",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "TU FR",
+      "time": "3:00-4:15"
+    },
+    "room": "104",
+    "capacity": "25",
+    "notes": "",
+    "description": ""
+  },
+  {
+    "department": "AS",
+    "courseCode": "AH 312",
+    "section": "",
+    "title": "Artist, Museums & the Art Market",
+    "instructor": "Chris Stiegler",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "M TH",
+      "time": "4:30-5:45"
+    },
+    "room": "250",
+    "capacity": "25",
+    "notes": "",
+    "description": ""
+  },
+  {
+    "department": "AS",
+    "courseCode": "AH 392",
+    "section": "",
+    "title": "(S) Livable Worlds",
+    "instructor": "sabine stxrm",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "WED",
+      "time": "12:00-2:45`"
+    },
+    "room": "104",
+    "capacity": "25",
+    "notes": "",
+    "description": ""
+  },
+  {
+    "department": "AS",
+    "courseCode": "AH 397",
+    "section": "",
+    "title": "19th-Century Media Worlds",
+    "instructor": "Rose Logie",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "TH",
+      "time": "1:30-4:15"
+    },
+    "room": "105",
+    "capacity": "25",
+    "notes": "Fast track",
+    "description": ""
+  },
+  {
+    "department": "AS",
+    "courseCode": "AH 440",
+    "section": "",
+    "title": "(W) Art History Minor Thesis",
+    "instructor": "Rose Logie",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "-",
+      "time": "-"
+    },
+    "room": "-",
+    "capacity": "IS",
+    "notes": "",
+    "description": ""
+  },
+  {
+    "department": "AS",
+    "courseCode": "EN 100",
+    "section": "1",
+    "title": "English Composition",
+    "instructor": "Pedro Daher",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "M TH",
+      "time": "8:30-9:45"
+    },
+    "room": "250",
+    "capacity": "20",
+    "notes": "revised schedule",
+    "description": ""
+  },
+  {
+    "department": "AS",
+    "courseCode": "EN 100",
+    "section": "2",
+    "title": "English Composition",
+    "instructor": "Pedro Daher",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "M TH",
+      "time": "10:15-11:30"
+    },
+    "room": "250",
+    "capacity": "20",
+    "notes": "revised schedule",
+    "description": ""
+  },
+  {
+    "department": "AS",
+    "courseCode": "EN 100",
+    "section": "3",
+    "title": "English Composition",
+    "instructor": "Sharon Kunde",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "TU FR",
+      "time": "10:15-11:30"
+    },
+    "room": "250",
+    "capacity": "20",
+    "notes": "revised schedule",
+    "description": ""
+  },
+  {
+    "department": "AS",
+    "courseCode": "EN 100",
+    "section": "4",
+    "title": "English Composition",
+    "instructor": "Sharon Kunde",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "TU FR",
+      "time": "12:00-1:15"
+    },
+    "room": "250",
+    "capacity": "20",
+    "notes": "revised schedule",
+    "description": ""
+  },
+  {
+    "department": "AS",
+    "courseCode": "EN 100",
+    "section": "5",
+    "title": "English Composition",
+    "instructor": "John Portlock",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "TU FR",
+      "time": "8:30-9:15"
+    },
+    "room": "104",
+    "capacity": "20",
+    "notes": "revised schedule",
+    "description": ""
+  },
+  {
+    "department": "AS",
+    "courseCode": "HU 361",
+    "section": "",
+    "title": "(S) Ruins & Reclamation",
+    "instructor": "sabine sxtrm",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "M TH",
+      "time": "4:30-5:45"
+    },
+    "room": "7",
+    "capacity": "25",
+    "notes": "",
+    "description": ""
+  },
+  {
+    "department": "AS",
+    "courseCode": "HU 370",
+    "section": "",
+    "title": "(W) Writing Past Catharsis: Micro-Memoir",
+    "instructor": "Alana Dao",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "TU FR",
+      "time": "12:00-1:15"
+    },
+    "room": "104",
+    "capacity": "20",
+    "notes": "3/9/26",
+    "description": ""
+  },
+  {
+    "department": "AS",
+    "courseCode": "HU 380",
+    "section": "",
+    "title": "Zombie Poiesis: Beyond Capitalism",
+    "instructor": "Sharon Kunde",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "WED",
+      "time": "3:00-5:45"
+    },
+    "room": "104",
+    "capacity": "25",
+    "notes": "fast track",
+    "description": ""
+  },
+  {
+    "department": "AS",
+    "courseCode": "HU 381",
+    "section": "",
+    "title": "(S) Witchcraft: Madness, Visions, and Witnesses",
+    "instructor": "sabine sxtrm",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "M TH",
+      "time": "1:30-2:45"
+    },
+    "room": "104",
+    "capacity": "25",
+    "notes": "fast track",
+    "description": ""
+  },
+  {
+    "department": "AS",
+    "courseCode": "HU 383",
+    "section": "",
+    "title": "Autofiction: Documenting the Self",
+    "instructor": "sabine stxrm",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "M TH",
+      "time": "6:30-7:45"
+    },
+    "room": "7",
+    "capacity": "25",
+    "notes": "fast track. 3/9",
+    "description": ""
+  },
+  {
+    "department": "AS",
+    "courseCode": "HU 440",
+    "section": "",
+    "title": "(W) Writing Minor Capstone",
+    "instructor": "Pedro Daher",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "-",
+      "time": "-"
+    },
+    "room": "-",
+    "capacity": "IS",
+    "notes": "",
+    "description": ""
+  },
+  {
+    "department": "AS",
+    "courseCode": "HU 445",
+    "section": "",
+    "title": "(S) Sustainable Ecosystems: Art & Design Minor Capstone",
+    "instructor": "sabine sxtrm",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "-",
+      "time": "-"
+    },
+    "room": "-",
+    "capacity": "IS",
+    "notes": "",
+    "description": ""
+  },
+  {
+    "department": "AS",
+    "courseCode": "NS 255",
+    "section": "",
+    "title": "(AE) The Business of Art",
+    "instructor": "Sara Juli",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "WED",
+      "time": "12:00-2:45"
+    },
+    "room": "208",
+    "capacity": "20",
+    "notes": "",
+    "description": ""
+  },
+  {
+    "department": "AS",
+    "courseCode": "NS 304",
+    "section": "",
+    "title": "(PE) (S) Living Sustainably",
+    "instructor": "Deb Debiegun",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "WED",
+      "time": "8:30-11:15"
+    },
+    "room": "208",
+    "capacity": "20",
+    "notes": "",
+    "description": ""
+  },
+  {
+    "department": "AS",
+    "courseCode": "NS 319",
+    "section": "",
+    "title": "(PE) (S) The Biodesign Challenge: Concepts and Practice",
+    "instructor": "Megan Valanidas",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "TUE",
+      "time": "12:00-2:45"
+    },
+    "room": "208",
+    "capacity": "20",
+    "notes": "Name change approved faculty vote 12/4/25",
+    "description": ""
+  },
+  {
+    "department": "AS",
+    "courseCode": "NS 322",
+    "section": "",
+    "title": "(PE) (S) Citizen Science",
+    "instructor": "Megan Valanidas",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "TUE",
+      "time": "3:00-5:45"
+    },
+    "room": "208",
+    "capacity": "20",
+    "notes": "Fast track",
+    "description": ""
+  },
+  {
+    "department": "AS",
+    "courseCode": "PL 226",
+    "section": "",
+    "title": "Gender Theory",
+    "instructor": "Ken Knight",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "WED",
+      "time": "8:45-11:30"
+    },
+    "room": "105",
+    "capacity": "25",
+    "notes": "fast track",
+    "description": ""
+  },
+  {
+    "department": "AS",
+    "courseCode": "PL 228",
+    "section": "",
+    "title": "Anti-hegemonic Thought: Literature and Philosophy",
+    "instructor": "Pedro Daher",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "WED",
+      "time": "8:45-11:30"
+    },
+    "room": "250",
+    "capacity": "25",
+    "notes": "fast track",
+    "description": ""
+  },
+  {
+    "department": "AS",
+    "courseCode": "WH 249",
+    "section": "",
+    "title": "History as Narrative Storytelling",
+    "instructor": "Rebekah Bryer",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "M TH",
+      "time": "10:15-11:30"
+    },
+    "room": "105",
+    "capacity": "25",
+    "notes": "Fast track",
+    "description": ""
+  },
+  {
+    "department": "AS",
+    "courseCode": "WH 252",
+    "section": "",
+    "title": "Slavery, Abolition, and the coming of Civil War",
+    "instructor": "John Portlock",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "TU FR",
+      "time": "10:15-11:30"
+    },
+    "room": "104",
+    "capacity": "25",
+    "notes": "Fast track",
+    "description": ""
+  },
+  {
+    "department": "FN",
+    "courseCode": "DR 100",
+    "section": "1",
+    "title": "Introduction to Drawing",
+    "instructor": "Jim Flahavan",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "TU FR",
+      "time": "8:30-11:15"
+    },
+    "room": "102",
+    "capacity": "18",
+    "notes": "",
+    "description": ""
+  },
+  {
+    "department": "FN",
+    "courseCode": "DR 100",
+    "section": "2",
+    "title": "Introduction to Drawing",
+    "instructor": "Jim Flahavan",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "TU FR",
+      "time": "12:00-2:45"
+    },
+    "room": "102",
+    "capacity": "18",
+    "notes": "",
+    "description": ""
+  },
+  {
+    "department": "FN",
+    "courseCode": "DR 100",
+    "section": "3",
+    "title": "Introduction to Drawing",
+    "instructor": "Greta Bank",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "TU FR",
+      "time": "3:00-5:45"
+    },
+    "room": "103",
+    "capacity": "18",
+    "notes": "2/26/26",
+    "description": ""
+  },
+  {
+    "department": "FN",
+    "courseCode": "DR 100",
+    "section": "4",
+    "title": "Introduction to Drawing",
+    "instructor": "Jennifer Brou-J",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "M TH",
+      "time": "8:30-11:15"
+    },
+    "room": "102",
+    "capacity": "18",
+    "notes": "",
+    "description": ""
+  },
+  {
+    "department": "FN",
+    "courseCode": "DR 110",
+    "section": "H1",
+    "title": "Honors: Introduction to Drawing",
+    "instructor": "Philip Brou-P",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "M TH",
+      "time": "1:30-4:15"
+    },
+    "room": "102",
+    "capacity": "18",
+    "notes": "3/9",
+    "description": ""
+  },
+  {
+    "department": "FN",
+    "courseCode": "DR 140",
+    "section": "",
+    "title": "Thinking with Drawing",
+    "instructor": "Michael Connor",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "TU FR",
+      "time": "8:30-11:15"
+    },
+    "room": "103",
+    "capacity": "18",
+    "notes": "2/26",
+    "description": ""
+  },
+  {
+    "department": "FN",
+    "courseCode": "DR 227",
+    "section": "",
+    "title": "Anatomical Drawing",
+    "instructor": "Greta Bank",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "TU TH",
+      "time": "6:30-9:15"
+    },
+    "room": "102",
+    "capacity": "18",
+    "notes": "",
+    "description": ""
+  },
+  {
+    "department": "FN",
+    "courseCode": "DR 400",
+    "section": "",
+    "title": "Advanced Drawing- (Capstone students only)",
+    "instructor": "Sarah Shaw",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "-",
+      "time": "-"
+    },
+    "room": "-",
+    "capacity": "x",
+    "notes": "",
+    "description": ""
+  },
+  {
+    "department": "FN",
+    "courseCode": "FN 109",
+    "section": "1WT",
+    "title": "3D Materiality: Woodworking 7-week class runs 1/11-2/26",
+    "instructor": "TBA TBA",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "TU FR",
+      "time": "3:00-5:45"
+    },
+    "room": "318-319",
+    "capacity": "12",
+    "notes": "room changed",
+    "description": ""
+  },
+  {
+    "department": "FN",
+    "courseCode": "FN 109",
+    "section": "1TW",
+    "title": "3D Materiality: Textiles. 7-week class runs 3/1-4/23",
+    "instructor": "Elana Adler",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "TU FR",
+      "time": "3:00-5:45"
+    },
+    "room": "301-302",
+    "capacity": "-",
+    "notes": "",
+    "description": ""
+  },
+  {
+    "department": "FN",
+    "courseCode": "FN 109",
+    "section": "2TW",
+    "title": "3D Materiality: Textiles. 7-week class runs 1/11-2/26",
+    "instructor": "Elana Adler",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "TU FR",
+      "time": "3:00-5:45"
+    },
+    "room": "301-302",
+    "capacity": "12",
+    "notes": "",
+    "description": ""
+  },
+  {
+    "department": "FN",
+    "courseCode": "FN 109",
+    "section": "2WT",
+    "title": "3D Materiality: Woodworking 7-week class runs 3/1-4/23",
+    "instructor": "TBA TBA",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "TU FR",
+      "time": "3:00-5:45"
+    },
+    "room": "318-319",
+    "capacity": "-",
+    "notes": "room changed",
+    "description": ""
+  },
+  {
+    "department": "FN",
+    "courseCode": "FN 110",
+    "section": "1",
+    "title": "4D: Space & Temporality",
+    "instructor": "Tracey Cockrell",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "M TH",
+      "time": "8:30-11:15"
+    },
+    "room": "305-502",
+    "capacity": "15",
+    "notes": "",
+    "description": ""
+  },
+  {
+    "department": "FN",
+    "courseCode": "FN 110",
+    "section": "2",
+    "title": "4D: Space & Temporality",
+    "instructor": "Joshua Reiman",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "TU FR",
+      "time": "8:45-11:30"
+    },
+    "room": "305-502",
+    "capacity": "15",
+    "notes": "",
+    "description": ""
+  },
+  {
+    "department": "FN",
+    "courseCode": "FN 110",
+    "section": "3",
+    "title": "4D: Space & Temporality",
+    "instructor": "Justin Kirchoff",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "WED",
+      "time": "8:30-2:30"
+    },
+    "room": "305-502",
+    "capacity": "15",
+    "notes": "",
+    "description": ""
+  },
+  {
+    "department": "FN",
+    "courseCode": "FN 110",
+    "section": "4",
+    "title": "4D: Space & Temporality",
+    "instructor": "Tracey Cockrell",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "TU FR",
+      "time": "8:30-11:15"
+    },
+    "room": "277-508",
+    "capacity": "15",
+    "notes": "2/20",
+    "description": ""
+  },
+  {
+    "department": "FN",
+    "courseCode": "FN 110",
+    "section": "5",
+    "title": "4D: Space & Temporality",
+    "instructor": "Ben Spalding",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "TU TH",
+      "time": "6:30-9:15"
+    },
+    "room": "277-502",
+    "capacity": "15",
+    "notes": "2/20",
+    "description": ""
+  },
+  {
+    "department": "FN",
+    "courseCode": "FN 110",
+    "section": "6",
+    "title": "4D: Space & Temporality",
+    "instructor": "Ben Spalding",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "TU FR",
+      "time": "12:00-2:45"
+    },
+    "room": "277-502",
+    "capacity": "15",
+    "notes": "2/20",
+    "description": ""
+  },
+  {
+    "department": "FN",
+    "courseCode": "FN 110",
+    "section": "7",
+    "title": "4D: Space & Temporality",
+    "instructor": "Tabitha Barnard",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "M TH",
+      "time": "1:30-4:15"
+    },
+    "room": "305-502",
+    "capacity": "15",
+    "notes": "",
+    "description": ""
+  },
+  {
+    "department": "AE",
+    "courseCode": "AE 329",
+    "section": "",
+    "title": "Contemporary Practices for Art Teaching",
+    "instructor": "Rachel Somerville",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "WED",
+      "time": "3:00-5:45"
+    },
+    "room": "510",
+    "capacity": "10",
+    "notes": "",
+    "description": ""
+  },
+  {
+    "department": "AG",
+    "courseCode": "AG 100",
+    "section": "1",
+    "title": "Intro to Game Development",
+    "instructor": "Adam deGrandis",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "M TH",
+      "time": "8:30-11:15"
+    },
+    "room": "277",
+    "capacity": "18",
+    "notes": "revised schedule",
+    "description": ""
+  },
+  {
+    "department": "AG",
+    "courseCode": "AG 101",
+    "section": "1",
+    "title": "Animation I",
+    "instructor": "Kevin Woods",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "M TH",
+      "time": "6:30-9:15"
+    },
+    "room": "289",
+    "capacity": "18",
+    "notes": "revised schedule",
+    "description": ""
+  },
+  {
+    "department": "AG",
+    "courseCode": "AG 120",
+    "section": "1",
+    "title": "Storyboarding for Animation",
+    "instructor": "Chad Hurd",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "M TH",
+      "time": "8:30-11:15"
+    },
+    "room": "289",
+    "capacity": "18",
+    "notes": "",
+    "description": ""
+  },
+  {
+    "department": "AG",
+    "courseCode": "AG 199",
+    "section": "1",
+    "title": "Character Design for Games & Animation",
+    "instructor": "Charlie MacWilliams?",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "WED",
+      "time": "9:00-2:45"
+    },
+    "room": "289",
+    "capacity": "18",
+    "notes": "",
+    "description": ""
+  },
+  {
+    "department": "AG",
+    "courseCode": "AG 221",
+    "section": "1",
+    "title": "Sophomore Production Lab",
+    "instructor": "Adam Fisher",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "M TH",
+      "time": "1:30-4:15"
+    },
+    "room": "289",
+    "capacity": "18",
+    "notes": "",
+    "description": ""
+  },
+  {
+    "department": "AG",
+    "courseCode": "AG 221",
+    "section": "2",
+    "title": "Sophomore Production Lab",
+    "instructor": "Adam deGrandis",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "M TH",
+      "time": "1:30-4:15"
+    },
+    "room": "277",
+    "capacity": "18",
+    "notes": "",
+    "description": ""
+  },
+  {
+    "department": "AG",
+    "courseCode": "AG 245",
+    "section": "",
+    "title": "Intro to 3D Modeling & Animation",
+    "instructor": "George Larou",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "TU FR",
+      "time": "12:00-2:45"
+    },
+    "room": "289",
+    "capacity": "16",
+    "notes": "",
+    "description": ""
+  },
+  {
+    "department": "AG",
+    "courseCode": "AG 322",
+    "section": "",
+    "title": "Major Production Studio II",
+    "instructor": "George Larou",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "M TH",
+      "time": "8:45-11:30"
+    },
+    "room": "111-112",
+    "capacity": "18",
+    "notes": "",
+    "description": ""
+  },
+  {
+    "department": "AG",
+    "courseCode": "AG 322",
+    "section": "",
+    "title": "Major Production Studio II",
+    "instructor": "Spencer Laudiero",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "M TH",
+      "time": "8:45-11:30"
+    },
+    "room": "111-112",
+    "capacity": "-",
+    "notes": "",
+    "description": ""
+  },
+  {
+    "department": "AG",
+    "courseCode": "AG 323",
+    "section": "",
+    "title": "Special Topics: Post Production & VFX for Animation",
+    "instructor": "James LaPlante",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "TU TH",
+      "time": "6:30-9:15"
+    },
+    "room": "289",
+    "capacity": "18",
+    "notes": "",
+    "description": ""
+  },
+  {
+    "department": "AG",
+    "courseCode": "AG 324",
+    "section": "",
+    "title": "Special Topics: Storyboarding II",
+    "instructor": "Spencer Laudiero",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "TU FR",
+      "time": "3:00-5:45"
+    },
+    "room": "289",
+    "capacity": "18",
+    "notes": "",
+    "description": ""
+  },
+  {
+    "department": "AG",
+    "courseCode": "AG 345",
+    "section": "",
+    "title": "Intermediate 3D Modeling & Animation",
+    "instructor": "Adam deGrandis",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "TU FR",
+      "time": "8:30-11:15"
+    },
+    "room": "289",
+    "capacity": "18",
+    "notes": "",
+    "description": ""
+  },
+  {
+    "department": "AG",
+    "courseCode": "AG 351",
+    "section": "",
+    "title": "Animation & Game Art Concepts and History",
+    "instructor": "Adam deGrandis",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "TU FR",
+      "time": "12:00-2:45"
+    },
+    "room": "213",
+    "capacity": "-",
+    "notes": "",
+    "description": ""
+  },
+  {
+    "department": "AG",
+    "courseCode": "AG 351",
+    "section": "",
+    "title": "Animation & Game Art Concepts and History",
+    "instructor": "Spencer Laudiero",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "TU FR",
+      "time": "12:00-2:45"
+    },
+    "room": "213",
+    "capacity": "18",
+    "notes": "",
+    "description": ""
+  },
+  {
+    "department": "AG",
+    "courseCode": "AG 352",
+    "section": "1",
+    "title": "Collaborative Productions",
+    "instructor": "James LaPlante",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "WED",
+      "time": "12:00-5:30"
+    },
+    "room": "277",
+    "capacity": "18",
+    "notes": "",
+    "description": ""
+  },
+  {
+    "department": "AG",
+    "courseCode": "AG 352",
+    "section": "2",
+    "title": "Collaborative Productions",
+    "instructor": "Phoenix Stroh",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "WED",
+      "time": "12:00-5:30"
+    },
+    "room": "Crewe gallery",
+    "capacity": "-",
+    "notes": "",
+    "description": ""
+  },
+  {
+    "department": "AG",
+    "courseCode": "AG 422",
+    "section": "",
+    "title": "Major Capstone Production.  (3 cr. or 6 cr. option)",
+    "instructor": "Adam Fisher",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "M TH",
+      "time": "8:45-11:30"
+    },
+    "room": "111-112",
+    "capacity": "18",
+    "notes": "",
+    "description": ""
+  },
+  {
+    "department": "AG",
+    "courseCode": "AG 422",
+    "section": "",
+    "title": "Major Capstone Production.  (3 cr. or 6 cr. option)",
+    "instructor": "Phoenix Stroh",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "M TH",
+      "time": "8:45-11:30"
+    },
+    "room": "111-112",
+    "capacity": "-",
+    "notes": "",
+    "description": ""
+  },
+  {
+    "department": "AG",
+    "courseCode": "AG 452",
+    "section": "",
+    "title": "Major Capstone Project Post-production",
+    "instructor": "Amelia Garretson-Persans",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "M TH",
+      "time": "1:30-4:15"
+    },
+    "room": "Major space",
+    "capacity": "18",
+    "notes": "",
+    "description": ""
+  },
+  {
+    "department": "AG",
+    "courseCode": "AG 452",
+    "section": "",
+    "title": "Major Capstone Project Post-production",
+    "instructor": "Isabella Rotman",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "M TH",
+      "time": "1:30-4:15"
+    },
+    "room": "Major space",
+    "capacity": "-",
+    "notes": "",
+    "description": ""
+  },
+  {
+    "department": "AM",
+    "courseCode": "AM 104",
+    "section": "",
+    "title": "Instrumental Lab: Choral Ensemble  1 cr. class runs 7-week (1/11-2/26)",
+    "instructor": "Chaz Lester",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "WED",
+      "time": "10:00-11:15"
+    },
+    "room": "07",
+    "capacity": "12",
+    "notes": "week 1-7",
+    "description": ""
+  },
+  {
+    "department": "AM",
+    "courseCode": "AM 105",
+    "section": "",
+    "title": "Instrumental Lab: Keyboard  1 cr. class runs 7-week (1/11-2/26)",
+    "instructor": "Peter Dugas",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "TU",
+      "time": "7:00-8:15"
+    },
+    "room": "07",
+    "capacity": "12",
+    "notes": "week 1-7",
+    "description": ""
+  },
+  {
+    "department": "AM",
+    "courseCode": "AM 110",
+    "section": "",
+    "title": "(M) Intro to Digital Audio Recording",
+    "instructor": "Steve Drown",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "TU FR",
+      "time": "8:45-11:30"
+    },
+    "room": "07",
+    "capacity": "12",
+    "notes": "",
+    "description": ""
+  },
+  {
+    "department": "AM",
+    "courseCode": "AM 220",
+    "section": "",
+    "title": "Songwriting",
+    "instructor": "Dominic LaVoie",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "TU TH",
+      "time": "6:30-9:15"
+    },
+    "room": "250",
+    "capacity": "15",
+    "notes": "Day/room change",
+    "description": ""
+  },
+  {
+    "department": "AM",
+    "courseCode": "AM 400",
+    "section": "",
+    "title": "(M) Music Minor Capstone",
+    "instructor": "Steve Drown",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "-",
+      "time": "-"
+    },
+    "room": "-",
+    "capacity": "IS",
+    "notes": "",
+    "description": ""
+  },
+  {
+    "department": "CE",
+    "courseCode": "CE 245",
+    "section": "",
+    "title": "(PE) Empty Bowls & Community Engagement",
+    "instructor": "Kari Radasch",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "TU FR",
+      "time": "8:30-11:15"
+    },
+    "room": "511",
+    "capacity": "16",
+    "notes": "PE minor",
+    "description": ""
+  },
+  {
+    "department": "CE",
+    "courseCode": "CE 250",
+    "section": "",
+    "title": "Slip Casting and Press Molding",
+    "instructor": "Patrick Coughlin",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "TU FR",
+      "time": "12:00-2:45"
+    },
+    "room": "511",
+    "capacity": "16",
+    "notes": "",
+    "description": ""
+  },
+  {
+    "department": "CE",
+    "courseCode": "CE 305",
+    "section": "",
+    "title": "Ceramics Throwing-Advanced",
+    "instructor": "Tyler Gulden",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "M TH",
+      "time": "1:30-4:15"
+    },
+    "room": "511",
+    "capacity": "16",
+    "notes": "",
+    "description": ""
+  },
+  {
+    "department": "CE",
+    "courseCode": "CE 302",
+    "section": "",
+    "title": "Ceramics III: Major Studio",
+    "instructor": "Patrick Coughlin",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "M TH",
+      "time": "8:45-11:30"
+    },
+    "room": "511",
+    "capacity": "JR MAJOR",
+    "notes": "",
+    "description": ""
+  },
+  {
+    "department": "CE",
+    "courseCode": "CE 402",
+    "section": "",
+    "title": "Ceramics IV: Major Studio",
+    "instructor": "Patrick Coughlin",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "M TH",
+      "time": "8:45-11:30"
+    },
+    "room": "511",
+    "capacity": "SR MAJOR",
+    "notes": "",
+    "description": ""
+  },
+  {
+    "department": "GD",
+    "courseCode": "GD 111",
+    "section": "",
+    "title": "Perpetual Play",
+    "instructor": "Lorin Brown",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "M W",
+      "time": "6:30-9:15"
+    },
+    "room": "305- 316B",
+    "capacity": "20",
+    "notes": "",
+    "description": ""
+  },
+  {
+    "department": "GD",
+    "courseCode": "GD 221",
+    "section": "",
+    "title": "Branding and Visual Systems",
+    "instructor": "Amy Parker",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "TU FR",
+      "time": "3:00-5:45"
+    },
+    "room": "305-316",
+    "capacity": "18",
+    "notes": "",
+    "description": ""
+  },
+  {
+    "department": "GD",
+    "courseCode": "GD 302",
+    "section": "",
+    "title": "Information Design",
+    "instructor": "Peter Alfano",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "TU FR",
+      "time": "8:30-11:15"
+    },
+    "room": "316",
+    "capacity": "18",
+    "notes": "",
+    "description": ""
+  },
+  {
+    "department": "GD",
+    "courseCode": "GD 331",
+    "section": "",
+    "title": "Typography II",
+    "instructor": "Jan Fairbairn",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "M TH",
+      "time": "3:00-5:45"
+    },
+    "room": "316",
+    "capacity": "18",
+    "notes": "",
+    "description": ""
+  },
+  {
+    "department": "GD",
+    "courseCode": "GD 450",
+    "section": "",
+    "title": "Degree Project",
+    "instructor": "Mary\u2013Jo Valentino",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "M TH",
+      "time": "8:45-11:30"
+    },
+    "room": "316",
+    "capacity": "18",
+    "notes": "",
+    "description": ""
+  },
+  {
+    "department": "IL",
+    "courseCode": "IL 110",
+    "section": "1",
+    "title": "Methods and Media in Illustration",
+    "instructor": "Andrew DeGraff",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "M TH",
+      "time": "1:30-4:15"
+    },
+    "room": "103",
+    "capacity": "18",
+    "notes": "",
+    "description": ""
+  },
+  {
+    "department": "IL",
+    "courseCode": "IL 110",
+    "section": "2",
+    "title": "Methods and Media in Illustration",
+    "instructor": "Michael Connor",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "M TH",
+      "time": "8:30-11:15"
+    },
+    "room": "103",
+    "capacity": "18",
+    "notes": "",
+    "description": ""
+  },
+  {
+    "department": "IL",
+    "courseCode": "IL 212",
+    "section": "1",
+    "title": "Illustration in Context",
+    "instructor": "Sarah Shaw",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "M TH",
+      "time": "1:30-4:15"
+    },
+    "room": "509",
+    "capacity": "18",
+    "notes": "",
+    "description": ""
+  },
+  {
+    "department": "IL",
+    "courseCode": "IL 212",
+    "section": "2",
+    "title": "Illustration in Context",
+    "instructor": "Mary Anne Lloyd",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "TU FR",
+      "time": "3:00-5:45"
+    },
+    "room": "509",
+    "capacity": "18",
+    "notes": "Day /time changed",
+    "description": ""
+  },
+  {
+    "department": "IL",
+    "courseCode": "IL 306",
+    "section": "",
+    "title": "Introduction to Comics",
+    "instructor": "Michael Connor",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "TU FR",
+      "time": "12:00-2:45"
+    },
+    "room": "509",
+    "capacity": "18",
+    "notes": "",
+    "description": ""
+  },
+  {
+    "department": "IL",
+    "courseCode": "IL 322",
+    "section": "1",
+    "title": "Illustration Majors Studio",
+    "instructor": "Andrew DeGraff",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "M TH",
+      "time": "8:45-11:30"
+    },
+    "room": "315",
+    "capacity": "JR MAJOR",
+    "notes": "",
+    "description": ""
+  },
+  {
+    "department": "IL",
+    "courseCode": "IL 322",
+    "section": "2",
+    "title": "Illustration Majors Studio",
+    "instructor": "Sarah Shaw",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "M TH",
+      "time": "8:45-11:30"
+    },
+    "room": "315",
+    "capacity": "JR MAJOR",
+    "notes": "",
+    "description": ""
+  },
+  {
+    "department": "IL",
+    "courseCode": "IL 336",
+    "section": "",
+    "title": "Advanced Comics",
+    "instructor": "Sarah Shaw",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "WED",
+      "time": "9:00-2:45"
+    },
+    "room": "509",
+    "capacity": "18",
+    "notes": "Fast Track. ML: (we are working on a new title)",
+    "description": ""
+  },
+  {
+    "department": "IL",
+    "courseCode": "IL 340",
+    "section": "",
+    "title": "Editorial Illustration: Concept to Print",
+    "instructor": "Mary Anne Lloyd",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "TU FR",
+      "time": "8:30-11:15"
+    },
+    "room": "509",
+    "capacity": "18",
+    "notes": "Fast Track name?",
+    "description": ""
+  },
+  {
+    "department": "IL",
+    "courseCode": "IL 351",
+    "section": "",
+    "title": "Introduction to the Discipline",
+    "instructor": "Leticia Plate",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "M TH",
+      "time": "8:30-9:45"
+    },
+    "room": "250",
+    "capacity": "MAJORS",
+    "notes": "",
+    "description": ""
+  },
+  {
+    "department": "IL",
+    "courseCode": "IL 423",
+    "section": "",
+    "title": "Illustration Majors Studio",
+    "instructor": "Devin Harrington",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "M TH",
+      "time": "1:30-4:15"
+    },
+    "room": "315",
+    "capacity": "SR MAJOR",
+    "notes": "",
+    "description": ""
+  },
+  {
+    "department": "IL",
+    "courseCode": "IL 423",
+    "section": "",
+    "title": "Illustration Majors Studio",
+    "instructor": "Mary Anne Lloyd",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "M TH",
+      "time": "1:30-4:15"
+    },
+    "room": "315",
+    "capacity": "SR MAJOR",
+    "notes": "",
+    "description": ""
+  },
+  {
+    "department": "MJ",
+    "courseCode": "MJ 101",
+    "section": "",
+    "title": "Metalsmithing & Jewelry I",
+    "instructor": "sharon portelance",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "M TH",
+      "time": "1:30-4:15"
+    },
+    "room": "408",
+    "capacity": "17",
+    "notes": "",
+    "description": ""
+  },
+  {
+    "department": "MJ",
+    "courseCode": "MJ 250 / \nMJ 325",
+    "section": "",
+    "title": "Intermediate Metalsmithing I + Advanced Metalsmithing I",
+    "instructor": "kyle patnaude",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "TU FR",
+      "time": "8:30-11:15"
+    },
+    "room": "408",
+    "capacity": "17",
+    "notes": "",
+    "description": ""
+  },
+  {
+    "department": "MJ",
+    "courseCode": "MJ 302",
+    "section": "",
+    "title": "Metalsmithing & Jewelry Majors Studio",
+    "instructor": "Kyle Patnaude",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "M TH",
+      "time": "8:45-11:30"
+    },
+    "room": "408-408B",
+    "capacity": "JR MAJOR",
+    "notes": "",
+    "description": ""
+  },
+  {
+    "department": "MJ",
+    "courseCode": "MJ 402",
+    "section": "",
+    "title": "Metalsmithing & Jewelry Majors Studio",
+    "instructor": "Kyle Patnaude",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "M TH",
+      "time": "8:45-11:30"
+    },
+    "room": "408-408B",
+    "capacity": "SR MAJOR",
+    "notes": "",
+    "description": ""
+  },
+  {
+    "department": "PT",
+    "courseCode": "PT 221",
+    "section": "1",
+    "title": "Independent Projects in Painting",
+    "instructor": "Andy Rosen",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "TU FR",
+      "time": "3:00-5:45"
+    },
+    "room": "402",
+    "capacity": "18",
+    "notes": "",
+    "description": ""
+  },
+  {
+    "department": "PT",
+    "courseCode": "PT 223",
+    "section": "",
+    "title": "Paintings without Pictures",
+    "instructor": "Honour Mack",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "M TH",
+      "time": "1:30-4:15"
+    },
+    "room": "401",
+    "capacity": "18",
+    "notes": "2/26/26\nFast Track - Name Change",
+    "description": ""
+  },
+  {
+    "department": "PT",
+    "courseCode": "PT 225",
+    "section": "",
+    "title": "Water Media",
+    "instructor": "Philip Brou-P",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "TU FR",
+      "time": "8:30-11:15"
+    },
+    "room": "402",
+    "capacity": "18",
+    "notes": "",
+    "description": ""
+  },
+  {
+    "department": "PT",
+    "courseCode": "PT 351",
+    "section": "",
+    "title": "Introduction to the Discipline",
+    "instructor": "Patricia Brace",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "M TH",
+      "time": "3:00-4:15"
+    },
+    "room": "7",
+    "capacity": "MAJORS",
+    "notes": "",
+    "description": ""
+  },
+  {
+    "department": "PT",
+    "courseCode": "PT 322",
+    "section": "",
+    "title": "Painting Majors Studio",
+    "instructor": "Philip Brou-P",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "M TH",
+      "time": "8:45-11:30"
+    },
+    "room": "401",
+    "capacity": "JR MAJOR",
+    "notes": "",
+    "description": ""
+  },
+  {
+    "department": "PT",
+    "courseCode": "PT 422",
+    "section": "",
+    "title": "Painting Majors Studio. (3-6 cr option w/Chair permission)",
+    "instructor": "Honour Mack",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "M TH",
+      "time": "8:45-11:30"
+    },
+    "room": "401",
+    "capacity": "SR MAJOR",
+    "notes": "",
+    "description": ""
+  },
+  {
+    "department": "PH",
+    "courseCode": "PH 222",
+    "section": "",
+    "title": "Color Photography",
+    "instructor": "Scott Peterman",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "TU TH",
+      "time": "6:30-9:15"
+    },
+    "room": "013-025-412",
+    "capacity": "18",
+    "notes": "",
+    "description": ""
+  },
+  {
+    "department": "PH",
+    "courseCode": "PH 232",
+    "section": "",
+    "title": "Large Format Photography",
+    "instructor": "Justin Kirchoff",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "M TH",
+      "time": "1:30-4:15"
+    },
+    "room": "013-025-412",
+    "capacity": "18",
+    "notes": "",
+    "description": ""
+  },
+  {
+    "department": "PH",
+    "courseCode": "PH 314",
+    "section": "",
+    "title": "Experimental Photography",
+    "instructor": "Dylan Hausthor",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "WED",
+      "time": "8:45-2:25"
+    },
+    "room": "013-025-412",
+    "capacity": "16",
+    "notes": "Moved from Fall",
+    "description": ""
+  },
+  {
+    "department": "PH",
+    "courseCode": "PH 322-422",
+    "section": "",
+    "title": "Photography Majors Studio",
+    "instructor": "Justin Kirchoff",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "M TH",
+      "time": "8:45-11:30"
+    },
+    "room": "013-025-412",
+    "capacity": "mixed",
+    "notes": "",
+    "description": ""
+  },
+  {
+    "department": "PH",
+    "courseCode": "PH 322",
+    "section": "",
+    "title": "Photography Majors Studio",
+    "instructor": "Tabitha Barnard",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "M TH",
+      "time": "8:45-11:30"
+    },
+    "room": "013-025-412",
+    "capacity": "JR MAJOR",
+    "notes": "",
+    "description": ""
+  },
+  {
+    "department": "PH",
+    "courseCode": "PH 422",
+    "section": "",
+    "title": "Photography Majors Studio",
+    "instructor": "Tabitha Barnard",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "M TH",
+      "time": "8:45-11:30"
+    },
+    "room": "013-025-412",
+    "capacity": "SR MAJOR",
+    "notes": "",
+    "description": ""
+  },
+  {
+    "department": "PR",
+    "courseCode": "PR 101",
+    "section": "",
+    "title": "Printmaking 1: Relief",
+    "instructor": "Bennett Morris",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "TU FR",
+      "time": "12:00-2:45"
+    },
+    "room": "406",
+    "capacity": "12",
+    "notes": "",
+    "description": ""
+  },
+  {
+    "department": "PR",
+    "courseCode": "PR 240",
+    "section": "",
+    "title": "The Book as Visual Object",
+    "instructor": "Martha Kerley",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "M TH",
+      "time": "1:30-4:15"
+    },
+    "room": "406",
+    "capacity": "16",
+    "notes": "",
+    "description": ""
+  },
+  {
+    "department": "PR",
+    "courseCode": "PR 302",
+    "section": "",
+    "title": "Printmaking Majors Studio",
+    "instructor": "Bennett Morris",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "M TH",
+      "time": "8:45-11:30"
+    },
+    "room": "406",
+    "capacity": "JR MAJOR",
+    "notes": "",
+    "description": ""
+  },
+  {
+    "department": "PR",
+    "courseCode": "PR 402",
+    "section": "",
+    "title": "Printmaking Majors Studio",
+    "instructor": "Bennett Morris",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "M TH",
+      "time": "8:45-11:30"
+    },
+    "room": "406",
+    "capacity": "SR MAJOR",
+    "notes": "",
+    "description": ""
+  },
+  {
+    "department": "SC",
+    "courseCode": "SC 105",
+    "section": "",
+    "title": "The Sculptural Imagination: Wood, Steel and Foundry Practices",
+    "instructor": "Joshua Reiman",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "TU FR",
+      "time": "12:00-2:45"
+    },
+    "room": "505-508",
+    "capacity": "12",
+    "notes": "",
+    "description": ""
+  },
+  {
+    "department": "SC",
+    "courseCode": "SC 229",
+    "section": "",
+    "title": "Club as Context: Collage, Sound, and Space",
+    "instructor": "Ben Spalding",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "TU FR",
+      "time": "3:00-5:45"
+    },
+    "room": "508",
+    "capacity": "12",
+    "notes": "Fast Track - only running next year",
+    "description": ""
+  },
+  {
+    "department": "SC",
+    "courseCode": "SC 322",
+    "section": "",
+    "title": "Sculpture: Junior Major Studio",
+    "instructor": "Patricia Brace",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "M TH",
+      "time": "8:45-11:30"
+    },
+    "room": "508",
+    "capacity": "JR MAJOR",
+    "notes": "",
+    "description": ""
+  },
+  {
+    "department": "SC",
+    "courseCode": "SC 422",
+    "section": "",
+    "title": "Sculpture: Senior Major Studio. (3-6 cr option)",
+    "instructor": "Joshua Reiman",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "M TH",
+      "time": "8:45-11:30"
+    },
+    "room": "508",
+    "capacity": "SR MAJOR",
+    "notes": "",
+    "description": ""
+  },
+  {
+    "department": "TF",
+    "courseCode": "TF 203",
+    "section": "",
+    "title": "(S) Surface Design",
+    "instructor": "Mali Mrozinski",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "TU FR",
+      "time": "8:30-11:15"
+    },
+    "room": "302-303",
+    "capacity": "15",
+    "notes": "",
+    "description": ""
+  },
+  {
+    "department": "TF",
+    "courseCode": "TF 215",
+    "section": "",
+    "title": "Weaving",
+    "instructor": "Betsy Scheintaub",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "M TH",
+      "time": "1:30-4:15"
+    },
+    "room": "301-302-303",
+    "capacity": "12",
+    "notes": "",
+    "description": ""
+  },
+  {
+    "department": "TF",
+    "courseCode": "TF 221",
+    "section": "",
+    "title": "Draping & Construction",
+    "instructor": "Jill McGowan",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "WED",
+      "time": "12:00-5:30"
+    },
+    "room": "301-302-303",
+    "capacity": "12",
+    "notes": "",
+    "description": ""
+  },
+  {
+    "department": "TF",
+    "courseCode": "TF 325",
+    "section": "",
+    "title": "Collection Development",
+    "instructor": "Mali Mrozinski",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "M TH",
+      "time": "8:45-11:30"
+    },
+    "room": "301-302-303",
+    "capacity": "JR MAJOR",
+    "notes": "",
+    "description": ""
+  },
+  {
+    "department": "TF",
+    "courseCode": "TF 422",
+    "section": "",
+    "title": "Majors Thesis Studio (6 cr.)",
+    "instructor": "Betsy Scheintaub",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "M TH 8:45-11:30",
+      "time": "WED 12:00-5:30"
+    },
+    "room": "MIXED",
+    "capacity": "SR MAJOR",
+    "notes": "see above",
+    "description": ""
+  },
+  {
+    "department": "WF",
+    "courseCode": "WF 101",
+    "section": "",
+    "title": "Introduction to Woodworking",
+    "instructor": "John Gardiner",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "M TH",
+      "time": "1:30-4:15"
+    },
+    "room": "318-319",
+    "capacity": "12",
+    "notes": "Day time change",
+    "description": ""
+  },
+  {
+    "department": "WF",
+    "courseCode": "WF 125",
+    "section": "",
+    "title": "Models & Mockups",
+    "instructor": "John Gardiner",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "TU FR",
+      "time": "12:00-2:45"
+    },
+    "room": "318-319",
+    "capacity": "12",
+    "notes": "",
+    "description": ""
+  },
+  {
+    "department": "WF",
+    "courseCode": "WF 322",
+    "section": "",
+    "title": "Wood & Furniture Major Studio",
+    "instructor": "John Gardiner",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "M TH",
+      "time": "8:45-11:30"
+    },
+    "room": "318-319",
+    "capacity": "JR MAJOR",
+    "notes": "",
+    "description": ""
+  },
+  {
+    "department": "WF",
+    "courseCode": "WF 422",
+    "section": "",
+    "title": "Wood & Furniture Major Studio",
+    "instructor": "John Gardiner",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "M TH",
+      "time": "8:45-11:30"
+    },
+    "room": "318-319",
+    "capacity": "SR MAJOR",
+    "notes": "",
+    "description": ""
+  },
+  {
+    "department": "PE",
+    "courseCode": "PE 400",
+    "section": "",
+    "title": "(PE) Public Engagement Minor Capstone",
+    "instructor": "TBA TBA",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "-",
+      "time": "-"
+    },
+    "room": "-",
+    "capacity": "IS",
+    "notes": "",
+    "description": ""
+  },
+  {
+    "department": "ST",
+    "courseCode": "ST 400",
+    "section": "",
+    "title": "(AE) Art & Entrepreneurship Minor Capstone",
+    "instructor": "TBA TBA",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "-",
+      "time": "-"
+    },
+    "room": "-",
+    "capacity": "IS",
+    "notes": "",
+    "description": ""
+  },
+  {
+    "department": "SEM",
+    "courseCode": "SEM 351",
+    "section": "GD",
+    "title": "Interaction Design",
+    "instructor": "Peter Alfano",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "TU FRI",
+      "time": "12:00-2:45"
+    },
+    "room": "305 316",
+    "capacity": "20",
+    "notes": "",
+    "description": ""
+  },
+  {
+    "department": "SEM",
+    "courseCode": "SEM 452",
+    "section": "1",
+    "title": "Senior Synthesis",
+    "instructor": "Adriane Herman",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "M TH",
+      "time": "1:30-2:45"
+    },
+    "room": "7",
+    "capacity": "18",
+    "notes": "",
+    "description": ""
+  },
+  {
+    "department": "SEM",
+    "courseCode": "SEM 452",
+    "section": "2",
+    "title": "Senior Synthesis",
+    "instructor": "Joshua Reiman",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "M TH",
+      "time": "1:30-2:45"
+    },
+    "room": "250",
+    "capacity": "18",
+    "notes": "PC:  (but I am overbooked)",
+    "description": ""
+  },
+  {
+    "department": "AG",
+    "courseCode": "AG 201",
+    "section": "1",
+    "title": "Character Animation",
+    "instructor": "Adam Fisher",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "AG 120/ AG 120-ADV",
+      "time": ""
+    },
+    "room": "",
+    "capacity": "",
+    "notes": "",
+    "description": ""
+  },
+  {
+    "department": "AG",
+    "courseCode": "AG 329",
+    "section": "",
+    "title": "Special Topics: Shaders & VFX",
+    "instructor": "Adam deGrandis",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "",
+      "time": ""
+    },
+    "room": "",
+    "capacity": "",
+    "notes": "",
+    "description": ""
+  },
+  {
+    "department": "AS",
+    "courseCode": "AH 102",
+    "section": "5",
+    "title": "Art History Survey II",
+    "instructor": "TBD",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "",
+      "time": ""
+    },
+    "room": "",
+    "capacity": "0",
+    "notes": "revised schedule",
+    "description": ""
+  },
+  {
+    "department": "AS",
+    "courseCode": "AH 250",
+    "section": "5",
+    "title": "Critical Approaches to Contemporary Art- pending enrollment",
+    "instructor": "TBD",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "",
+      "time": ""
+    },
+    "room": "",
+    "capacity": "0",
+    "notes": "",
+    "description": ""
+  },
+  {
+    "department": "AS",
+    "courseCode": "AH 391",
+    "section": "",
+    "title": "(S) Indigeneity, Objects, and Exhibitionism",
+    "instructor": "Rose Logie",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "",
+      "time": ""
+    },
+    "room": "",
+    "capacity": "0",
+    "notes": "Moved to Fall",
+    "description": ""
+  },
+  {
+    "department": "CE",
+    "courseCode": "CE",
+    "section": "",
+    "title": "TBD or nothing",
+    "instructor": "TBD",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "",
+      "time": ""
+    },
+    "room": "",
+    "capacity": "0",
+    "notes": "",
+    "description": ""
+  },
+  {
+    "department": "FN",
+    "courseCode": "DR 100",
+    "section": "5",
+    "title": "Introduction to Drawing",
+    "instructor": "TBD",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "",
+      "time": ""
+    },
+    "room": "",
+    "capacity": "0",
+    "notes": "",
+    "description": ""
+  },
+  {
+    "department": "FN",
+    "courseCode": "DR 110",
+    "section": "H2",
+    "title": "Honors: Introduction to Drawing",
+    "instructor": "TBD",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "",
+      "time": ""
+    },
+    "room": "",
+    "capacity": "0",
+    "notes": "",
+    "description": ""
+  },
+  {
+    "department": "AS",
+    "courseCode": "EN 100",
+    "section": "6",
+    "title": "English Composition",
+    "instructor": "John Portlock",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "",
+      "time": ""
+    },
+    "room": "",
+    "capacity": "0",
+    "notes": "revised schedule",
+    "description": ""
+  },
+  {
+    "department": "FN",
+    "courseCode": "FN 110",
+    "section": "0",
+    "title": "4D: Space & Temporality",
+    "instructor": "TBD",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "",
+      "time": ""
+    },
+    "room": "",
+    "capacity": "0",
+    "notes": "",
+    "description": ""
+  },
+  {
+    "department": "AS",
+    "courseCode": "NS 305",
+    "section": "",
+    "title": "(S) Botany",
+    "instructor": "Elizabeth Webb",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "",
+      "time": ""
+    },
+    "room": "",
+    "capacity": "0",
+    "notes": "",
+    "description": ""
+  },
+  {
+    "department": "PH",
+    "courseCode": "PH 101",
+    "section": "1",
+    "title": "Introduction to Photography",
+    "instructor": "Justin Kirchoff",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "",
+      "time": ""
+    },
+    "room": "",
+    "capacity": "0",
+    "notes": "",
+    "description": ""
+  },
+  {
+    "department": "PH",
+    "courseCode": "PH 310",
+    "section": "",
+    "title": "Alternative Processes",
+    "instructor": "Justin KIrchoff",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "W",
+      "time": "12-5:30"
+    },
+    "room": "",
+    "capacity": "0",
+    "notes": "",
+    "description": ""
+  },
+  {
+    "department": "PT",
+    "courseCode": "PT 223",
+    "section": "",
+    "title": "Forms and Transformation",
+    "instructor": "Honour Mack",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "",
+      "time": ""
+    },
+    "room": "",
+    "capacity": "0",
+    "notes": "",
+    "description": ""
+  },
+  {
+    "department": "WF",
+    "courseCode": "WF 235",
+    "section": "",
+    "title": "CURViture",
+    "instructor": "John Gardiner",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "",
+      "time": ""
+    },
+    "room": "",
+    "capacity": "12",
+    "notes": "",
+    "description": ""
+  },
+  {
+    "department": "FN",
+    "courseCode": "FN 108",
+    "section": "1",
+    "title": "(S) Research & Inquiry-Voyages (Studio)",
+    "instructor": "hold",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "",
+      "time": ""
+    },
+    "room": "",
+    "capacity": "",
+    "notes": "revised schedule",
+    "description": ""
+  },
+  {
+    "department": "AS",
+    "courseCode": "SEM 108",
+    "section": "1",
+    "title": "(S) Research & Inquiry-Voyages (Academic)",
+    "instructor": "TBD",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "",
+      "time": ""
+    },
+    "room": "",
+    "capacity": "",
+    "notes": "revised schedule",
+    "description": ""
+  },
+  {
+    "department": "FN",
+    "courseCode": "FN 108",
+    "section": "2",
+    "title": "Research & Inquiry-The Language Wars (studio)",
+    "instructor": "hold",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "",
+      "time": ""
+    },
+    "room": "",
+    "capacity": "",
+    "notes": "revised schedule",
+    "description": ""
+  },
+  {
+    "department": "AS",
+    "courseCode": "SEM 108",
+    "section": "2",
+    "title": "Research & Inquiry-The Language Wars  (Academic)",
+    "instructor": "TBD",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "",
+      "time": ""
+    },
+    "room": "",
+    "capacity": "",
+    "notes": "revised schedule",
+    "description": ""
+  },
+  {
+    "department": "FN",
+    "courseCode": "FN 108",
+    "section": "3",
+    "title": "(PE) R&I-Enclaves and Activism: Communities of Resistance and Resilience-US. (studio)",
+    "instructor": "hold",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "",
+      "time": ""
+    },
+    "room": "",
+    "capacity": "",
+    "notes": "revised schedule",
+    "description": ""
+  },
+  {
+    "department": "AS",
+    "courseCode": "SEM 108",
+    "section": "3",
+    "title": "(PE)Research & Inquiry- Enclaves and Activism: Communities of Resistance and Resilience-US.(Academic)",
+    "instructor": "TBD",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "",
+      "time": ""
+    },
+    "room": "",
+    "capacity": "",
+    "notes": "revised schedule",
+    "description": ""
+  },
+  {
+    "department": "FN",
+    "courseCode": "FN 108",
+    "section": "4",
+    "title": "(S) Research & Inquiry-Voyages (sudio)",
+    "instructor": "hold",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "",
+      "time": ""
+    },
+    "room": "",
+    "capacity": "",
+    "notes": "revised schedule",
+    "description": ""
+  },
+  {
+    "department": "AS",
+    "courseCode": "SEM 108",
+    "section": "4",
+    "title": "(S) Research & Inquiry-Voyages  (Academic)",
+    "instructor": "TBD",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "",
+      "time": ""
+    },
+    "room": "",
+    "capacity": "",
+    "notes": "revised schedule",
+    "description": ""
+  },
+  {
+    "department": "FN",
+    "courseCode": "FN 108",
+    "section": "5",
+    "title": "Research & Inquiry-Dystopian Landscapes (studio)",
+    "instructor": "hold",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "",
+      "time": ""
+    },
+    "room": "",
+    "capacity": "",
+    "notes": "revised schedule",
+    "description": ""
+  },
+  {
+    "department": "AS",
+    "courseCode": "SEM 108",
+    "section": "5",
+    "title": "Research & Inquiry-Dystopian Landscapes  (Academic)",
+    "instructor": "TBD",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "",
+      "time": ""
+    },
+    "room": "",
+    "capacity": "",
+    "notes": "revised schedule",
+    "description": ""
+  },
+  {
+    "department": "FN",
+    "courseCode": "FN 108",
+    "section": "6",
+    "title": "Research & Inquiry-Dystopian Landscapes (studio)",
+    "instructor": "hold",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "",
+      "time": ""
+    },
+    "room": "",
+    "capacity": "",
+    "notes": "revised schedule",
+    "description": ""
+  },
+  {
+    "department": "AS",
+    "courseCode": "SEM 108",
+    "section": "6",
+    "title": "Research & Inquiry-Dystopian Landscapes  (Academic)",
+    "instructor": "TBD",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "",
+      "time": ""
+    },
+    "room": "",
+    "capacity": "",
+    "notes": "revised schedule",
+    "description": ""
+  },
+  {
+    "department": "FN",
+    "courseCode": "FN 108",
+    "section": "7",
+    "title": "(M) Research & Inquiry-Music (studio)",
+    "instructor": "hold",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "",
+      "time": ""
+    },
+    "room": "",
+    "capacity": "",
+    "notes": "revised schedule",
+    "description": ""
+  },
+  {
+    "department": "AS",
+    "courseCode": "SEM 108",
+    "section": "7",
+    "title": "(M) Research & Inquiry- Music (Academic)",
+    "instructor": "TBD",
+    "term": "BFA SPRING",
+    "schedule": {
+      "day": "",
+      "time": ""
+    },
+    "room": "",
+    "capacity": "",
+    "notes": "revised schedule",
+    "description": ""
+  }
+]

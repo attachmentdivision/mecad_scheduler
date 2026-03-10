@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Course Planning Portal</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Work+Sans:wght@400;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+
+    <header>
+        <div class="prototype-badge">Prototype v2.0 | March 10, 2026</div>
+        <h1>Maine College of Art & Design<br>Course Portal</h1>
+        <p>Search and track your schedule by selecting Studio, Seminar, and Academic Studies courses.</p>
+    </header>
+
+    <div class="main-layout">
+        <div class="catalog-section">
+            <div class="controls">
+                <input type="text" id="searchInput" placeholder="Search courses or instructors...">
+                <select id="deptFilter">
+                    <option value="all">All Departments</option>
+                </select>
+                <select id="dayFilter">
+                    <option value="all">Any Day</option>
+                    <option value="mon">Monday</option>
+                    <option value="tue">Tuesday</option>
+                    <option value="wed">Wednesday</option>
+                    <option value="thu">Thursday</option>
+                    <option value="fri">Friday</option>
+                </select>
+                <button id="resetFilters" class="btn btn-reset">Reset Filters</button>
+            </div>
+            <div id="course-container"></div>
+        </div>
+
+        <div class="schedule-section">
+
+            <div class="calendar-tabs">
+                <button class="tab-btn active" data-term="BFA FALL">Fall 2026</button>
+                <button class="tab-btn" data-term="BFA SPRING">Spring 2027</button>
+            </div>
+
+            <div class="tracker">
+                <div class="tracker-badge bg-studio" id="tracker-studio">Studios: 0</div>
+                <div class="tracker-badge bg-sem" id="tracker-sem">Seminars: 0</div>
+                <div class="tracker-badge bg-as" id="tracker-as">Academic: 0</div>
+            </div>
+
+            <div class="calendar-wrapper">
+                <div class="calendar-header">
+                    <div class="day-header">Mon</div>
+                    <div class="day-header">Tue</div>
+                    <div class="day-header">Wed</div>
+                    <div class="day-header">Thu</div>
+                    <div class="day-header">Fri</div>
+                </div>
+                <div class="calendar-body">
+                    <div class="time-axis" id="time-axis"></div>
+
+                    <div class="calendar-grid">
+                        <div class="day-col" id="col-mon"></div>
+                        <div class="day-col" id="col-tue"></div>
+                        <div class="day-col" id="col-wed"></div>
+                        <div class="day-col" id="col-thu"></div>
+                        <div class="day-col" id="col-fri"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
