@@ -44,7 +44,12 @@ def extract_descriptions(pdf_path):
             if current_course:
                 desc_text = " ".join(current_desc).strip()
                 desc_text = re.sub(r'(Required|Elective|Prerequisite)s?:.*$', '', desc_text).strip()
-                course_dict[current_course] = desc_text
+                
+                # NEW LOGIC: Only save if it's a real paragraph, protecting against "Recommended Elective" indexes
+                if len(desc_text) > 30:
+                    course_dict[current_course] = desc_text
+                elif current_course not in course_dict:
+                    course_dict[current_course] = desc_text
                 
             # Start tracking the NEW course (normalize spaces)
             raw_code = match.group(1).strip()
@@ -59,66 +64,68 @@ def extract_descriptions(pdf_path):
     if current_course:
         desc_text = " ".join(current_desc).strip()
         desc_text = re.sub(r'(Required|Elective|Prerequisite)s?:.*$', '', desc_text).strip()
-        course_dict[current_course] = desc_text
+        if len(desc_text) > 30:
+            course_dict[current_course] = desc_text
+        elif current_course not in course_dict:
+            course_dict[current_course] = desc_text
         
     return course_dict
 
 print("1. Extracting descriptions from PDFs...")
-fall_desc = extract_descriptions('CourseDescr_DRAFT_FALL26.pdf')
-spring_desc = extract_descriptions('CourseDescr_DRAFT_SPRING27.pdf')
+fall_desc = extract_descriptions('FALLCourseDescr_26-27.pdf')
+spring_desc = extract_descriptions('SPRCourseDescr_26-27.pdf')
 
 # Combine them into one master dictionary
 all_descriptions = {**fall_desc, **spring_desc}
 
-fall_courses = []
-spring_courses = []
-
-print("2. Parsing CSV schedule and merging descriptions...")
-csv_filename = 'REG Schedule 26-27 as of 3.12.2026 - COMBINED -3.12.26.csv'
-
-with open(csv_filename, 'r', encoding='utf-8-sig') as f:
-    reader = csv.DictReader(f)
-    # Dynamically find the title column
-    title_key = next((key for key in reader.fieldnames if key and ('Combined' in key or 'AY' in key or 'Fall' in key or 'Spring' in key)), None)
-    
-    for row in reader:
-        dept = row.get('Dept', '').strip()
-        course_code = row.get('Course', '').strip()
-        term = row.get('TERM', '').strip().upper()
-        
-        # Skip invalid rows
-        if not dept or not course_code or dept.lower() == 'x' or ('0' in dept and 'current' in course_code.lower()):
-            continue
+def process_csv(csv_filename, term_keyword):
+    courses = []
+    try:
+        with open(csv_filename, 'r', encoding='utf-8-sig') as f:
+            reader = csv.DictReader(f)
+            title_key = next((key for key in reader.fieldnames if key and ('Fall' in key or 'Spring' in key or 'Combined' in key)), None)
             
-        first_name = row.get('Professor First name', '').strip()
-        last_name = row.get('Professor Last name', '').strip()
-        instructor = f"{first_name} {last_name}".strip()
+            for row in reader:
+                dept = row.get('Dept', '').strip()
+                course_code = row.get('Course', '').strip()
+                term = row.get('TERM', '').strip().upper()
+                
+                # Skip invalid rows
+                if not dept or not course_code or dept.lower() == 'x' or ('0' in dept and 'current' in course_code.lower()):
+                    continue
+                    
+                first_name = row.get('Professor First name', '').strip()
+                last_name = row.get('Professor Last name', '').strip()
+                instructor = f"{first_name} {last_name}".strip()
+                
+                clean_code = " ".join(course_code.split())
+                desc = all_descriptions.get(clean_code, "")
+                
+                course_obj = {
+                    "department": dept,
+                    "courseCode": clean_code,
+                    "section": row.get('section', '').strip(),
+                    "title": row.get(title_key, '').strip() if title_key else "",
+                    "instructor": instructor if instructor else "TBD",
+                    "term": term if term else term_keyword,
+                    "schedule": {
+                        "day": row.get('DAY', '').strip(),
+                        "time": row.get('TIME', '').strip()
+                    },
+                    "room": row.get('ROOM', '').strip(),
+                    "capacity": row.get('Course caps', '').strip(),
+                    "notes": row.get('NOTE / DATE', '').strip(),
+                    "description": desc
+                }
+                courses.append(course_obj)
+    except FileNotFoundError:
+        print(f"Warning: Could not find {csv_filename}.")
         
-        # Normalize the CSV course code to match the PDF dictionary (removes double spaces)
-        clean_code = " ".join(course_code.split())
-        desc = all_descriptions.get(clean_code, "")
-        
-        course_obj = {
-            "department": dept,
-            "courseCode": clean_code,
-            "section": row.get('section', '').strip(),
-            "title": row.get(title_key, '').strip() if title_key else "",
-            "instructor": instructor if instructor else "TBD",
-            "term": term,
-            "schedule": {
-                "day": row.get('DAY', '').strip(),
-                "time": row.get('TIME', '').strip()
-            },
-            "room": row.get('ROOM', '').strip(),
-            "capacity": row.get('Course caps', '').strip(),
-            "notes": row.get('NOTE / DATE', '').strip(),
-            "description": desc
-        }
-        
-        if 'FALL' in term:
-            fall_courses.append(course_obj)
-        elif 'SPRING' in term:
-            spring_courses.append(course_obj)
+    return courses
+
+print("2. Parsing CSV schedules and merging descriptions...")
+fall_courses = process_csv('REG Schedule 26-27 as of 3.12.2026 - F26 BFA.csv', 'BFA FALL')
+spring_courses = process_csv('REG Schedule 26-27 as of 3.12.2026 - S27 BFA.csv', 'BFA SPRING')
 
 print("3. Writing JSON files...")
 with open('fall.json', 'w', encoding='utf-8') as f:
